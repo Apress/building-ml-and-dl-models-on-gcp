@@ -1,0 +1,1 @@
+Acknowledged but creating user preferences for scripts takes some work so this likely wont be done any time soon I suppose you could invite other users of the script and the WPORPHANAGE participants here and build a consensus for if it should reload by default and if it should just reload or reload to diff  U e  t  c

@@ -1,0 +1,6 @@
+Removed ASR text 
+
+Per WPASR I changed the following edit in Development disability from
+In North America this definition and condition are more commonly referred to as mental retardation in most academic and professional contexts but this terminology is controversial in some locations and considered so pejorative that some contributors have preferred to start a new article than contribute to the larger article with that title
+to
+In North America this definition and condition are more commonly referred to as mental retardation in most academic and professional contexts but this terminology is controversial in some locations and considered by some to be pejorative

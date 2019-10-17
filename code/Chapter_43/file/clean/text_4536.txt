@@ -1,0 +1,1 @@
+As Ive explained in the article the noise is signaldependent so SNR for a system requires that you come up with a model of what that signal is going to look like first

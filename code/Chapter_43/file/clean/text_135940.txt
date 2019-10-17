@@ -1,0 +1,1 @@
+unfortunately it would seem that sql access is disabled for admins atm so a developer would have to do it  0532 21 Nov 2004 UTC

@@ -1,0 +1,1 @@
+A blue link should typically lead to content not a blank page which is why I suggested WildBot tag it as G7 Presumably it could delete the page itself were it an admin bot but typically only admins are allowed to run adminbots xenotalk

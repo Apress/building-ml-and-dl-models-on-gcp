@@ -1,0 +1,1 @@
+Oh I fixed your hangon tag  You had parens instead of curlybraces  Youre not supposed to remove the delete tag as the system uses those tags to catalog pages for admin review  However I dont want to get in an edit war

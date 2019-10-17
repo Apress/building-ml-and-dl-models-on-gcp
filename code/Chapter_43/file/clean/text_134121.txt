@@ -1,0 +1,23 @@
+stylebackgroundcolor F5FFFA padding 0 cellpadding0
+
+ styleborder 1px solid 084080 backgroundcolor F5FFFA verticalalign top color 000
+ Hello Chinakathysong0425 and Welcome to Wikipedia Thank you for your contributions to this free encyclopedia If you decide that you need help check out Getting Help below ask me on my talk page or place  on your talk page and ask your question there Please remember to sign your name on talk pages by using four tildes  or by clicking  if shown this will automatically produce your username and the date Also please do your best to always fill in the edit summary field with your edits Below are some useful links to facilitate your involvement Happy editing 
+
+ width100 stylebackgroundcolorF5FFFA
+stylewidth 55 border1px solid FFFFFF backgroundcolorF5FFFA verticalaligntop
+ Getting started A tutorial  Our five pillars  Getting mentored
+ How to Edit a page  Upload and use images  Create your first article 
+Intuitive guide to Wikipedia  Article Creation Wizard Getting help Frequently asked questions  Tips
+ Where to ask questions or make comments
+ Request administrator attention
+ Help desk A Wiki Styled page to ask questions on
+ Help directory A comprehensive liststyle help contents page Policies and guidelines Neutral point of view  No original research 
+ Verifiability  Reliable sources  Citing sources
+ What Wikipedia is not  Biographies of living persons
+
+ List of policies  Threerevert rule  Sock puppetry
+ Copyrights  Policy for nonfree content  Image use policy
+ External links  Spam  Vandalism  List of guidelines
+ Deletion policy  Conflict of interest  Notability
+classMainPageBG stylewidth 55 border1px solid FFFFFF backgroundcolorF5FFFA verticalaligntop
+ width100 cellpadding0 cellspacing5 styleverticalaligntop backgroundcolorF5FFFA

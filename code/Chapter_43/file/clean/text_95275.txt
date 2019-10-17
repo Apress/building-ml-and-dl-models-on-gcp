@@ -1,0 +1,6 @@
+Problem with SieBot
+
+SieBot is making invalid Chinese interwiki links I think because it is using the word classic instead of classical I am blocking it for 24 hours Please let me know if you have fixed it  
+
+Another administrator has blocked it indefinitely Let me know if you need unblock when it is fixed  
+The bot has been stopped I started an interwiki main namespace run from zhclassical earlier today Ill ask a coder to look into fixing this issue in pywikipediabot Please unblock SieBot Cheers

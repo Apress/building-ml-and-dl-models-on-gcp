@@ -1,0 +1,9 @@
+Image formatting 
+
+Hi Remember the dot I rereverted Brer Fox image formatting changes because they are in keeping with the Manual of Style The MoS reads
+
+The current image mark up is for landscapeformat and square images
+
+and for portraitformat images
+
+I cant find any good explanation for what the upright marker does but it seems to adjust the size of the image so that it takes up roughly the same area as a horizontallyaligned image   talk

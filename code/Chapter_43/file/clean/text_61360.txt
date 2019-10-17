@@ -1,0 +1,23 @@
+Hi welcome to Wikipedia
+
+Hope you enjoy contributing to Wikipedia Be bold in editing pages Here are some links that you might find useful
+
+ Try the Tutorial If you have less time try WikipediaHow to edit a page
+ To sign your posts on talk pages Votes for deletion page etc use TAB four tildes This will insert your name and timestamp To insert just your name type  3 tildes
+ You can experiment in the test area
+ You can get help at the Help Desk
+ Some other pages that will help you know more about Wikipedia Manual of Style and Policies and Guidelines WikipediaNeutral point of view WikipediaCivility WikipediaWhat Wikipedia is not
+
+I hope you stick around and keep contributing to Wikipedia Drop us a note at WikipediaNew user log
+
+   talk to me
+
+ Your userpage does not exist so 
+
+Hi  Ive noticed that you currently dont have a userpage Not a problem in itself but it makes your name appear as a redlink when signing talk pages or when seen in SpecialRecentchanges Some users feel that lack of a userpage is an indication that a user may be a troll sockpuppet or simply a newbie One simple solution if you dont want to create a userpage is to edit your userpage and insert the following
+
+REDIRECT User talk
+
+This will make your userpage a redirect to your talk page If you ever want to create a user page follow this link
+
+Thanks  1438 Mar 18 2005 UTC

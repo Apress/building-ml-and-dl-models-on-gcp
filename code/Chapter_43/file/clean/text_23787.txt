@@ -1,0 +1,3 @@
+Confusing Terms a Common Issue in Computer Science 
+
+I dont really see what all the fuss is about There are many other concepts in computer science where one term means lots of different things For example clientserver is about as confusing a term as you can find Yet there is a Wikipedia article on the subject It doesnt even talk about the client server relationship that can exist between objects My recommendation is to set up several sections each of which describes one definition of IOC and leave it at that

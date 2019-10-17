@@ -1,0 +1,2 @@
+Remove fundraiser banner and sitenotice 
+siteNotice fundraiser fundraiserbox  displaynone important

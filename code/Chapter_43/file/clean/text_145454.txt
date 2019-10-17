@@ -1,0 +1,3 @@
+Article issues tags 
+
+I just added back the orphan and BLPrefimprove tags as these issues have not been dealt with See WPORPHAN for guidance on orphans As for the references please see WPBLP  2 references is not enough for a BLP and there is a lot of stuff in the article that is still unreferenced

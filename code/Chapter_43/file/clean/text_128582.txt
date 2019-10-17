@@ -1,0 +1,41 @@
+Changes to wrong mechanical operations section to the AR15 article 
+
+18459118198  I am sure that you are just doing your job but there need to be some changes made to the AR15 article page The following is what I suggest and if you have any questions you may want to check the Stags Arms company website at httpinfostagarmscomblogbid297530ThedifferencebetweenGasPistonandDirectImpingementtechnologyforanAR15
+And I do thank you for your consideration Merry Christmas
+
+The difference between Gas Piston and Direct Impingement technology for an AR15
+
+Posted by Stag Arms on Fri Sep 06 2013 
+
+The AR15 Rifle while eminently customizable carries with it a few conundrums One is the choice of operating system do you get a model which uses gas piston technology or the more traditional direct impingement 
+
+Fans of the gas piston will state that impingement models are prone to jamming and often foul easily Fans of the impingement model will call gas piston tech mechanically unsound Who is correct and what is the real difference between the model types here
+
+Basic AR Functionality  What makes an AR15 an AR15
+
+To qualify as an AR15 a rifle must be selfloading and be able to perform a specific set of basic functions mechanically without user assistance To be more specific when depressing the trigger the rifle needs to fire a single cartridge and then extract that spent case from the chamber and eject it in some manner Next it must then load an unspent cartridge into the chamber The round is plucked from the magazine the breech is then locked and the hammer cocked The rifle will then have a fresh round loaded and again be ready to fire
+ 
+Direct Impingement  How do the original AR15 models work
+
+Direct Impingement is the original technology devised by Eugene Stoner Propellant gas is bled through a small hole located in the barrel which is then channeled through a very small tube where it can proceed to directly contact or impinge the bolt carrier mechanism At this point the gas is pushed to the rear of the rifle and the spent case is extracted and ejected It is then pushed forward by springloaded action and strips an unspent round from the cartridge loading it directly into the chamber of the barrel Contrary to the statements of Gas Piston proponents we have put over 2000 rounds through rifles without cleaning and without malfunction
+
+ 
+
+Gas Piston Technology  How do the new piston technologies work
+
+Gas piston technology was first used in modern firearms by Mikhail Kalashnikov on the AK47 While similar at first blush to direct impingement systems there are a few key differences in operation The firing process again begins with propellant gases being bled into the barrel However instead of being forced into a tube as it is in a direct impingement system it is contained in a separate cylinder 
+
+This cylinder contains a pistonsimilar in operation to what you may find in an AK47 The gas moves the piston is in turn pushes the bolt carrier rearward to handle the extraction and ejection process and then is moved pushed forward to the closed position by a spring just as with direct impingement
+
+ 
+
+ar15
+
+ 
+
+Which system is better
+
+The direct impingement has proven itself through the years on the AR15 platform and replacement parts are inexpensive easy to obtain and generally made to a set milspec standard  Due to the hot gas from the fired cartridge being redirected into the action it will quickly heat up and become dirty requiring a cool down period before the bolt carrier can be removed from the rifle
+
+The action of a piston rifle remains cool and clean even after shooting 100 rounds in rapid succession The bolt carrier can be removed immediately and held in your hand without burning yourself The trade off for the action staying cool and clean is that you will experience snappier recoil when shooting which makes the piston rifle a little less accurate especially for follow up shots Finally piston system parts are not interchangeable between manufacturers due to there being no set standard and the use of proprietary pistons and bolt carriers
+18459118198

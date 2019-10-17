@@ -1,0 +1,1 @@
+If template substitution is inadvisable for a template there is normally a caution against it but in this case it is mentioned neither on the template page current version nor on Template talkDbmeta current version  Should it be specified there

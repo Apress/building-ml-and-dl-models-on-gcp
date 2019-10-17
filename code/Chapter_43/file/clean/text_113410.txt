@@ -1,0 +1,13 @@
+Experimental  Prototype architecture 
+
+I suggest that any specific designs which have not had formal evaluation should not be included as part of this article  A casual reader may be mislead into believing that they would be able to reproduce these results
+
+see httpwwwfsecucfeduenresearchbuildingszero_energylakelandindexhtm for an example of a very strict protocol for evaluation
+
+These examples may need further validation
+
+John Haits Passive Annual Heat Storage PAHS method 
+Water walls and roof ponds
+Australian deepcover earthedroof
+Don Stephens Annualized GeoSolar AGS heating
+Thermal Buffer Zone  zero Energy building

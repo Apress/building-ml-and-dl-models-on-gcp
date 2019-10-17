@@ -1,0 +1,8 @@
+Templates add unnecessary coding to the wikitext for the same information Templated citations are almost always longer and more complex Compare
+ AP May 4 2008 Sean Combs receives Walk of Fame star todaymsnbcmsncom Retrieved 20110630
+ 
+There is a difference but visually these look pretty much the same If youve already got
+ AP May 4 2008 httptodaymsnbcmsncomid24456438nstodayentertainmenttseancombsreceiveswalkfamestar Sean Combs receives Walk of Fame star todaymsnbcmsncom Retrieved 20110630
+then
+ cite web authorAP urlhttptodaymsnbcmsncomid24456438nstodayentertainmenttseancombsreceiveswalkfamestar titleSean Combs receives Walk of Fame star publishertodaymsnbcmsncom dateMay 4 2008 accessdate20110630
+adds the clutter of field identifiers author url title date Templated text also typically takes longer to loadrender in a browser

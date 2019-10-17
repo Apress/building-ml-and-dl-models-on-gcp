@@ -1,0 +1,2 @@
+Borda fixed point
+See the talkborda fixed point page for issues pertaining there

@@ -1,0 +1,3 @@
+Subst your templates  
+
+When using certain template tags on talk pages dont forget to substitute with text by adding subst to the template tag For example use substtest instead of test This reduces server load and prevents accidental blanking of the template   PS Obey the cabal

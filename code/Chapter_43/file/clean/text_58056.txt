@@ -1,0 +1,1 @@
+A priori I disagree with the assertion that RedBlack trees RBT are quicker than AVL trees AVL for insertion and removal of an element Without an appropriate element I think it must be remove Considering that RBT are talliers than AVL intuition is against the claimed statement

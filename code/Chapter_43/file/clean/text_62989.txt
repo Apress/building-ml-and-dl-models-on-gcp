@@ -1,0 +1,2 @@
+Change name of section As NonDST Time
+We must change the name of that section to As Standard Time since it would be more confusing if one would read it If you dont want to remove it you may do this As Standard NonDST Time

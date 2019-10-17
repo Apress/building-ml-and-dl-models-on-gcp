@@ -1,0 +1,4 @@
+Outdated map 
+
+The map used to show national Gini coefficients seems to be about 20 years out of date since it shows East Germany This implies that the values given are also out of date
+If anyone can find a more upto date map this would be welcome

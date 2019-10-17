@@ -1,0 +1,13 @@
+DeeperQA 
+
+As a cook I often need to find recipes and their closely related variations in the same way a lawyer or doctor may need to find cases and their variations 
+
+In the past I resolved this need by asking the computer questions by means of submitting keywords Today the method I use is quite different
+
+Today I find recipes and their variations by query  not by my query of the computer but by the computers query of me 
+
+What makes this better is the time I save repeating keyword submissions  to refine responses and find the answer I need
+
+What makes this possible is the computers ability to minimize the number of questions it must ask  
+
+The technique is described here

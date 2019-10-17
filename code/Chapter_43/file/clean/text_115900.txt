@@ -1,0 +1,1 @@
+It is accepted The Linux CodingStyle file mandates it The minor variation of not specialcasing functions is decently common though Spacing within the line that is other than the indent is seldom strictly enforced

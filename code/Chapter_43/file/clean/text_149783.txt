@@ -1,0 +1,7 @@
+Ontario universities map 
+
+ I hope its okay It utilizes ImageUniversities in Ontariosvg which I created and then the text is added at template level I had initially sized the template with a width of 780px but then realized it was too big when transcluded Its now at a more reasonable width of 400px Ive only included the main campuses because it was getting stupid around the Toronto area Even now there isnt much room for the text Im a little unhappy that the text for OCAD overlaps onto the marker for Guelph but I dont know where else to put it By all means edit it if you find somewhere
+
+When transcluding you can do Ontario Universities Mapfloatright if you want it on the right side of the page otherwise just leave out the float field for it to be on the left I dont know if you can have a caption or not but Im sure youll figure it out
+
+Let me know if you like it and if you want me to do any others for the other FLCs youve got going on  talk  contribs  email

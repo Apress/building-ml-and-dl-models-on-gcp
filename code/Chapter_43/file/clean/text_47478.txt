@@ -1,0 +1,9 @@
+Why have you changed the image again The text is now all but unreadable It is now forced into singleword lines extending down past the reference section It looks ridiculous You quoted IMGSIZE yet again in the summary That policy states
+ In general do not use px without very good reason
+
+What that means is the policy needs not to be unilaterally enforced at all costs If as in this instance there is a need for a change in size it is permissible The policy further states
+Where px is used the resulting image should be no more than 500 pixels tall and no more than 400 pixels wide for comfortable display on the smallest devices in common use
+
+I have already and repeatedly demonstrated that upsizing to 250px is all that required I bet even 220px would work That is well within the limits The change to the picture itself is negligible and therefore does not impact the article negatively in any way It only servers to benefit the article by making the text within the caption more wieldy and easier to read It also eliminates the impact of needlessly extending the picture frame all the way down to the refs
+
+Surely you can see this Since youre quoting this policy so much surely you know that it does not prohibit this edit I have asked repeatedly that you look at the effect on the article both before and after the edit and in doing so surely you see the need for this edit Yet you insist on repeatedly reverting which only serves a detriment to the article and is tantamount to vandalism Is that really want you want for this article

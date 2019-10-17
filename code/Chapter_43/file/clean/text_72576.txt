@@ -1,0 +1,2 @@
+Contents
+The contents box just appears when there are 4 or more items with header level 1 on a page in his case 4 comments eg Random Wikipedia message  So naturally when you deleted one there were only 3 items so it no longer appeared  This comment should fix that Hope this answer helps

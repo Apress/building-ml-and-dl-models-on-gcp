@@ -1,0 +1,5 @@
+LanguageWikibooksphp 
+
+Hey Brion
+
+I would like to localize the Languagephp file for Wikibooks the agreed upon name for the textbook wiki From what I can tell the only localization you did on the current Languagephp file for Wikibooks was to replace From Wikipedia the free encyclopedia Is that true If so then I would like to start with a fresh Languagephp file My question is this will I break the Wikibooks wiki by doing a quick and dirty replace on every occurance of Wikipedia with Wikibooks For example would aboutwikipedia work as aboutwikibooks How to become a Wikipedia hacker didnt have that answer Also what should I name the resulting localized file remembering that we want to be multilanguage too Thanks for any help

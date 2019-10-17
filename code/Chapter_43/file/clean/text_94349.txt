@@ -1,0 +1,2 @@
+Village
+If it is a hamlet it cannot be a village

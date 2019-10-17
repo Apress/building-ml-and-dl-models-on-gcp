@@ -1,0 +1,1 @@
+Indeed by far the best way to do it is to scrape the actual rendered HTML  Thus youre using the wiki parser to include all of the images for you  Then just grep the HTML source for all of the image tags and parse out the actual wiki names of the images using the links that theyre wrapped in

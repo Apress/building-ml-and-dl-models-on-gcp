@@ -1,0 +1,1 @@
+We can also delete any blockquote usage down to a fixed number of words or number of sentences and end them with an ellipsis by running a script

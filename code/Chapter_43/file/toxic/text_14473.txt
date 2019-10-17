@@ -1,0 +1,5 @@
+Amazing 
+
+The NavierStokes equations are nonlinear partial differential equations in almost every real situation exceptions include one dimensional flow and creeping flow The nonlinearity makes most problems difficult or impossible to solve and is part of the cause of turbulence
+
+Today on Wikipedia I learned that the nonlinearity of differential equations is part of the cause of empirically measurable turbulence in the real world Tomorrow Im going to try to reverse gravity by breaking into Science Headquarters and putting a minus symbol next to little g Whoever wrote the quoted paragraph is a mouthbreathing idiot by the way 7549223247

@@ -1,0 +1,3 @@
+Firefox 
+
+I still cant quite figure out what the history and even current situation with that is As of 2012 appeared to default to Direct2D but not to DirectWrite

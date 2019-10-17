@@ -1,0 +1,3 @@
+Change of Intersection Template 
+
+This article was changed to bring its intersection template to the NYint format No other changes were made It is important to verify update andor correct as necessary

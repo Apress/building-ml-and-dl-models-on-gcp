@@ -1,0 +1,3 @@
+WikipediaDate_formatting_and_linking_pollAutoformatting_responses 
+
+Regarding your comments in opposition to date autoformatting Id like to point out that discussions on a proposed replacement included specifications for a consistent format for unregistered users as you mentioned  There was also talk and a demo system although no longer online about allowing perpage defaults that would override the normal default  So your concerns are shared by the same people who were working to develop a replacement for the current autoformatting system

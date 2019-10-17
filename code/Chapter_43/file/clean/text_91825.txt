@@ -1,0 +1,7 @@
+Terminology for this article 
+
+Reading various Wikipedia articles its apparent that Wikipedia is as about as muddled in terminology as the literature is I am clear on a concept which Chandrasekhar calls specific intensity which fully characterizes the radiation field in a medium without physical surfaces  is the energy passing thru an area element dA into a small solid angle  about the normal to the area element in a small frequency band  in a small time interval dt It has SI units of wattsmeter2srhz Apparently many people refer to this as radiance Can we please settle on a term for this concept and use it consistently 
+
+Next is the question of a physical surface What is the term that fully characterizes the radiation coming out of a physical surface element that corresponds to specific intensity but is only specified for radiation out of the surface and is undefined into the surface It cannot have the same name because its only like half of the specific intensity How do we describe the fact that this radiation is independent of direction as long as that direction is out of the physical surface
+
+These are questions that need to be settled on before we can write a decent article In my mind I use the terms specific intensity or spectral intensity for the first paragraph above and radiance for the second but I dont care what names are used as long as they are precisely defined and a case can be made that it is a common definition

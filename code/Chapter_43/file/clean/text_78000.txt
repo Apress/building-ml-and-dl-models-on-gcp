@@ -1,0 +1,2 @@
+I just posted a  on my user page  It restores the Mercator power series for log1z and mentions the Gronwall paper discovered by Dmcq  And it makes the intro more chatty while being careful to remain honest
+By the way I was thinking that in the Principal Value section we could possibly remove the first sentence and the next paragraph    Do you think this would make it easier or harder to read  Im not sure so your advice would be helpful

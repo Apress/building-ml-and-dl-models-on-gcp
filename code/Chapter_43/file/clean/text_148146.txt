@@ -1,0 +1,61 @@
+from metaLanguage codesConflicts
+Below is a list of conflicts between 2 letter language codes and country codes  A conflict occurs when a country uses the same code as a language it does not actively use   Theoretically country and language codes
+are orthogonal so the conflict does not exist but practically it could be 
+a source of needless confusion
+
+  
+2 letter3 letterLanguageCountry
+afafr  AfrikaansAfghanistan
+amamh  AmharicArmenia
+arara  ArabicArgentina
+asasm  AssameseAmerican Samoa
+babak  BashkirBosnia and Herzegovina
+bebel  ByelorussianBelgium
+bhbih  BihariBahrain
+bibis  BislamaBurundi
+bnben  BengaliBrunei Darussalam
+brbre  BretonBrazil
+bobodtibTibetanBolivia 
+cacat  CatalanCanada
+cocos  CorsicanColombia
+cycymwel  WelshCyprus
+dzdzo  DzongkhaAlgeria
+etest  EstonianEthiopia
+gagaiiri  IrishGabon
+glglg  GalleganGreenland
+gngrn  GuaraniGuinea
+guguj  GujaratiGuam
+kmkhm  KhmerComoros
+knkan  KannadaSaint Kitts and Nevis
+kykir  KirghizCayman Islands
+lalat  LatinLao Peoples Democratic Republic
+mlmlt  MalteseMali
+momol  MoldavianMacau
+mrmar  MarathiMauritania
+msmaymsaMalayMontserrat
+myburmyaBurmeseMalaysia
+nanau  NauruNamibia
+nenep  NepaliNiger
+omorm  OromoOman
+papan  PanjabiPunjab India  Pakistan
+KsKAS  KashmiriKashmir India Kashmir
+pspus  PushtoPalestinian Territories
+sasan  SanskritSaudi Arabia
+sdsnd  SindhiSudan
+sgsag  SangoSingapore
+shscr  SerboCroatianSt Helena
+sisin  SinghaleseSlovenia
+slslv  SlovenianSierra Leone
+smsmo  SamoanSan Marino
+snsna  ShonaSenegal
+stsot  Sotho SouthernSao Tome and Principe
+svsvesweSwedishEl Salvador
+tgtgk  TajikTogo
+tktuk  TurkmenTokelau
+tntsn  TswanaTunisia
+tttat  TatarTrinidad and Tobago
+twtwi  TwiTaiwan
+uguig  UighurUganda
+ukukr  UkrainianUnited Kingdom
+vivie  VietnameseVirgin Islands USA
+zazha  ZhuangSouth Africa

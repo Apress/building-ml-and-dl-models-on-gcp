@@ -1,0 +1,7 @@
+OK I just tried to merge Cloud telephony into Webbased VoIP and it did not work  The reason is that the intros in both of those articles did not correctly define the concepts  
+ Cloud telephony is a subset of Cloud communications it means thirdparty offsite VoIP services in general  This includes both webbased and nonwebbased VoIP it could just integrate with conventional telephones as a PBX replacement
+ Webbased VoIP simply uses a web page running a multimedia applet or whatever instead of dedicated nonweb VoIP software
+
+I propose merging Cloud telephony into Cloud communications instead they are both very short and weak and there is substantial overlap  I tagged both of those articles
+
+There is no section in Voice over IP into which to merge Webbased VoIP since it defines a class of client software though I did add an awkward link from the Protocols section  Clients are described at Comparison of VoIP software  Webbased software is included there but not necessarily marked as such  Thats another potential merge target but I dont have any problem leaving webbased VoIP as its own article for a while and letting it grow  It may be handy to just be able to link there from several other articles I removed the merge tag from Webbased VoIP for now but feel free to rekindle the debate if you see fit

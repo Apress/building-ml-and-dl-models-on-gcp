@@ -1,0 +1,3 @@
+Queen Mary 2
+
+Im not sure what you were trying to achive with the move you reverted If the intention was that the name displayed in italics there is a template that does this  RMSQueen Mary 22 produces

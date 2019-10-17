@@ -1,0 +1,35 @@
+styleborderspacing8pxmargin0px 8px width100
+classMainPageBG stylewidth 55 border1px solid 084080 backgroundcolorF5FFFA verticalaligntopcolor000000fontsize 85
+  Hello Sousadolphin Welcome to Wikipedia Thank you for your contributions If you decide that you need help check out WikipediaWhere to ask a question ask me on my talk page or place helpme on your talk page and someone will show up shortly to answer your questions Please remember to sign your name on talk pages using four tildes  this will automatically produce your name and the date Finally please do your best to always fill in the edit summary field Below are some recommended guidelines to facilitate your involvement Happy Editing  Satori Son  
+ styleborderspacing8pxmargin0px 8px width100
+classMainPageBG stylewidth 55 border1px solid FFFFFF backgroundcolorF5FFFA verticalaligntop
+ Getting Started Wikipedia Tutorial
+ How to edit a page
+ The five pillars of Wikipedia
+ Manual of Style
+ Be bold in editing
+ How to write a great article
+ WikiProjects Getting your info out there Cite your sources
+ Neutral Point of View
+ Point of View
+ Verifiability
+ Uploading images
+ Image use policy Getting more Wikipedia rules Policy Library
+classMainPageBG stylewidth 55 border1px solid FFFFFF backgroundcolorF5FFFA verticalaligntop
+ width100 cellpadding2 cellspacing5 styleverticalaligntop backgroundcolorF5FFFA
+ Getting Help
+
+stylecolor000
+ New contributors help page
+ Where to ask a question
+ Help Desk
+ Frequently Asked Questions
+
+ Getting along
+
+stylecolor000
+ Wikiquette
+ Civility
+ Sign your posts
+ Wikipedians
+ Conflict resolution

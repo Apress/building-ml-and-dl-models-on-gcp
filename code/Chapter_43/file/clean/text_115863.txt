@@ -1,0 +1,3 @@
+adding fr to templates 
+
+Please have a look at this diff to see how you should have added fr to a template

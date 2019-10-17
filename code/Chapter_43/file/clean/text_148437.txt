@@ -1,0 +1,3 @@
+Removal of Fixed Issues 
+
+If a game had an issue that was fixed in a System Update cant we just remove the issue in the description

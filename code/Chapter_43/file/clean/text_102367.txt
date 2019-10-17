@@ -1,0 +1,1 @@
+Do you have examples of automata determinization which are not the powerset construction or a variant thereof

@@ -1,0 +1,1 @@
+Also im not sure if youre aware but betacommandbot now goes around checking image descriptions such as making sure each page has a fair use rationale written for it I made a change to the above image which should stop betacommandbot but FYI pages they appear on need linking to now

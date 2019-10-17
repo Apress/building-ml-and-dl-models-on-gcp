@@ -1,0 +1,1 @@
+Yes indeed I do I doubledoublechecked before removing the line and I just checked it again now The exception to this is the special type of shortcuts that dont have an editable path eg Microsoft Mouse There are some odd changes between builds however I dont currently have the RTM to refer to unfortunately Talk

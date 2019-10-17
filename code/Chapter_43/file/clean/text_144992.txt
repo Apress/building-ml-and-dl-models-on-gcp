@@ -1,0 +1,5 @@
+I have restored the three See also references
+Are the two thesis references readily available to readers in the US and UK Are there web links If not would it be feasible to put the thesis references online somewhere and then link to them
+Something that I am not clear about is whether a grey box model must always also be a statistical model The first paragraph from Statistical modelGeneral remarks is relevant here and is copied below
+A statistical model is a special type of mathematical model What distinguishes a statistical model from other mathematical models is that a statistical model is nondeterministic Thus in a statistical model specified via mathematical equations some of the variables do not have specific values but instead have probability distributions ie some of the variables are stochastic 
+In the equations of a grey box model is it required that there be stochastic variables I think that the article would benefit from making that clear

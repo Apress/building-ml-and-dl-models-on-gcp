@@ -1,0 +1,1 @@
+I agree re camelCase note capitalization but would also add that the Camel illustration is wrong and misleading too  The head should show the first word which should start with a lower case letter and the following words should start with an upper case letter in the humps

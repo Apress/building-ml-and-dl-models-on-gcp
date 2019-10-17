@@ -1,0 +1,17 @@
+2014 UTC
+
+ Bot is deleting wikiproject banners 
+
+see  where the bot deleted a wikiproject banner with the summary Notifying of move discussion  6592180137  
+This is interesting The bot did just fine when it first posted the notice at 0300 6 March 2013
+Seven days later after leaving the notice undisturbed for a week at 0014 13 March 2013 it removed the project template and updated its timestamp
+Thats not the only talk page banner it disturbed with that update Also
+TalkMalling Moselle  at 0015 13 March 2013
+TalkMonastyrysche Raion  at 0016 13 March 2013
+This seems to be some oneoff glitchIve not seen this bug before It may be a sideeffect of some other issue and could be hard to track down   
+Whatever the bug is it is causing a wholesale overwrite of the entire talk page from what I can see it deletes the entire talk page and replaces it with the new notice  6592180137  
+Excellent observation It could be something more like this type of problem Ill put it on my list to check the code to see if any edit checks can be made to prevent it   
+
+The WikipediaRequested movesCurrent discussions update of 0016 13 March 2013 doesnt really give any clues unless its related to the Time could not be ascertained bug I should fix that one    
+ I think I finally realize the cause of this an API functions failure to retrieve the page content when asked and will get right to implementing the solution which is to not update the page at all rather than break it   
+ hopefully   2043 13 December

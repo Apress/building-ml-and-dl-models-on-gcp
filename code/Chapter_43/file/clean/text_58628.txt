@@ -1,0 +1,5 @@
+CodeGear 
+
+Borland has spun off its IDE tools group into CodeGear
+
+Should the article be renamed CodeGear Delphi or perhaps better Borland  CodeGear Delphi

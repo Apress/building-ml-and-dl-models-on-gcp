@@ -1,0 +1,11 @@
+WikipediaExternal links and blanket reverting 
+
+In my edit summaries I clearly explained the removal of each of those links Your mass rollback of those edits without comment is very impolite and violates WikipediaExternal links Please read that page to understand why those links are inappropriate An external link added to an article should provide information specifically about that articles subject Per WikipediaExternal links one should avoid links to 
+Sites that are only indirectly related to the articles subject the link should be directly related to the subject of the article A general site that has information about a variety of subjects should usually not be linked to from an article on a more specific subject
+
+This is why for example we do not link to httpwwwimdbcom in every movie article only the subpage of imdbcom about that movie Cf TemplateImdb name
+
+Inclusion of such links into a template might be very desirable for the sites owner to maximise the SEOpage rank benefit but please note that WikipediaExternal links explicitly discourages Links mainly intended to promote a website 
+Please do not insert such links again and do not make blanket reverts without addressing the arguments that other editors gave for their edits 
+
+Regards

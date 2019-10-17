@@ -1,0 +1,71 @@
+GayVN Awards redirects 
+
+Thanks for your help in deleting the pages that were merged However Im disappointed that the redirects werent deleted regardless of how cheap they are 
+
+I cant find anything that says redirects have to be kept in the case of merging a page Which would make sense in most cases Im sure but not when the name of the merged page is not one that someone would likely search for I can however find support for deleting them WikipediaRedirectWhen should we delete a redirect item 1 states The redirect page makes it unreasonably difficult for users to locate similarly named articles via the search engine
+
+I believe that leaving the redirects meets this guideline Heres the top of the results list when searching for gayvn in order of appearance There are 51 results listed Redirects are marked R correct pages are bolded Nonexistent pages are italicized
+
+GAYVN Awards R capitalization  keep is useful
+
+GayVN awards R capitalization  keep is useful
+
+GayVN Award R Singular rather than plural  keep is useful
+
+GayVN Awards Article page
+
+2001 GayVN Awards R
+
+Talk GayVN Awards Talk page
+
+2003 GayVN Awards R
+
+1998 GayVN Awards R
+
+2004 GayVN Awards R
+
+2002 GayVN Awards Page is listed but doesnt exist so results in a Wikipedia does not have an article with this exact name page being displayed
+
+2005 GayVN Awards R
+
+2000 GayVN Awards R
+
+2006 GayVN Awards R
+
+1st GayVN Awards 1999 R
+
+2nd GayVN Awards R
+
+6th GayVN Awards R
+
+4th GayVN Awards Page is listed but doesnt exist so results in a Wikipedia does not have an article with this exact name page being displayed
+
+3rd GayVN Awards R
+
+1st GayVN Awards R Redirects to 1998 GayVN Awards R double redirect
+
+5th GayVN Awards R
+
+Arabesque gay film
+
+Wilfried Knight
+
+Brice Ebson
+
+and others 
+
+Having to slog through 15 extraneous hits for nonuseful redirect pages seems unreasonable to me its nearly a third of the search results The redirects arent useful as they are too specific to be considered likely search phrases
+
+User2416713884 may exist but 2416713884 is a volatile IP address Keeping a comment directed at a particular user of a volatile IP address that may never be used by that particular user again about a page that has been mergeddeleted seems needless While equally useless for some reason he doesnt show up in the search list More evidence that theres something wrong with the index
+
+UserOverdrive10Kent Larson and UserOverdrive10Chris Steele show up further down on the list as well neither of these pages contains any reference to GayVN theyre both blank Im sure they did in the past as they were probably sandboxes for articles However there has been no activity on either page since 16 June 
+
+UserFabartusSandbox also shows up in the search results but doesnt mention GayVN anywhere on that page nor has she done so since 13 April That entry appears to be part of a copy and paste of another users contributions log with comments and was created by a user with an IP address most likely Fabartuss however
+
+In these cases and the case of the two pages listed above that dont actually exist but are being returned as part of the search results I think theres an obvious glitch somewhere  apparently in the search engine indexing Is it not being refreshed on a regular basis I thought it happened every 24 hours
+
+Any road it would be nice to have the 15 redirect pages removed and their entries in the search results eliminated and Im not sure that the former results in the latter Equally desirable would be to have the search index updated to reflect the nonexistence of pages Is that something that you can do or know to whom a request should be made to do so
+
+Any chance of some further assistance here
+
+Thanks talk

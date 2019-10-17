@@ -1,0 +1,1 @@
+An immediate return to vandalism after the expiration of the previous block is sufficient grounds for blocking without warning for a longer duration  tc

@@ -1,0 +1,4 @@
+Is there an error in decomposition into direct sums is not unique in general Therefore given a subspace V in general there are many projections whose range or kernel is V
+yet earlier it says the subspace U and its complement V determines the projection P uniquely which I think is correct 
+218186132  
+Rasjid

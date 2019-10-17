@@ -1,0 +1,3 @@
+Code snippets 
+
+How about some simple code snippets to showcase basic differences between OOP and the alternatives  talk  contribs

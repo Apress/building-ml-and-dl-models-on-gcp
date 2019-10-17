@@ -1,0 +1,14 @@
+Article needs review by nuclear physicists
+Just skimming the introduction I found three rather significant factual errors which I corrected  I review those here
+
+The first point was that the article insisted that fusion occurs between likecharged atomic nuclei but this limitation is not true  For example a nuclear reaction of 12C16O can proceed through the fusion channel yet their atomic charge differs  There are literally hundreds of such cases and citation would be gregarious and seems unnecessary but I can link a few articles if anyone disputes this point
+
+The article suggested that two protons can fuse and even suggested that such a reaction is governed by the nuclear strong force  Not true  ppd is a weak interaction because you must convert a proton into a neutron  Weak interactions are not fusion
+
+This error leads to a more general point  Simply putting nuclei together to make something heavier does not constitute fusion  A common misconception is that nuclear fusion refers to any coalescence of nuclei but in nuclear physics fusion is a specific reaction mechanism  I will need to confirm but I believe that for example the reactions in the CNO cycles proceed mainly through radiative capture which isnt fusion  I can find comments in the introduction instructing me not to correct the general statement about nucleosynthesis but the point is that this is generalized so much that it is incorrect  I can even find comments there saying not to link to the sprocess but the sprocess does not involve fusion reactions as far as I know  There are actually a rather limited number of stellar nucleosynthesis cases that actually proceed through the fusion mechanism such as carbon burning and oxygen burning  These are literally the only two examples I can think of off hand that Im sure proceed via fusion  All the rest Im fairly dubious about at the moment although some of the ppchain reactions may also be fusion
+
+Thus we in fact need likely a whole section explaining the nuclear physics of fusion and what it is and what it is not
+
+Finally I noticed that the article suggested humans have never controlled fusion  This is naff  There are plenty of nuclear physics experiments which have not only controlled fusion but made very careful measurements of the properties of the fusion mechanism at many energy scales  Clearly the writer wanted to imply that fusion as a source of stable source of energy has never been achieved by humans so this was changed to reflect that point
+
+But given that I could find a serious physics error in every paragraph I read so far clearly this article needs some serious attention Please do not revert my corrections without discussing the matter here or explicit citation indicating that I am incorrect

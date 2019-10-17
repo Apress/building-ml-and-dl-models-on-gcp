@@ -1,0 +1,4 @@
+Right now this list isnt very good Most of the people on it arent researchers  Walter Bright Yukihiro Matsumoto
+Guido van Rossum Brendan Eich Making a popular language doesnt make you a PL researcher 
+
+Id be willing to make this a real list of PL researchers but before I waste the time Id like to know if anyone else thinks it is a good idea to even have this article Most of our articles covering PL researchers are roughly stubs

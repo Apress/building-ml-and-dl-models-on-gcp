@@ -1,0 +1,1 @@
+You had the image name right but you left a blank width parameterthat apparently prevented the image from showing

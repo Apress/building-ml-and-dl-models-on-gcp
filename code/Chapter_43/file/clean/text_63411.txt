@@ -1,0 +1,7 @@
+The question said there was 2 in equity I just used it Whoever wrote the problem did something which made no sense
+
+He took All the Risk Weighted Assets then took out the liabilities
+
+Imagine I had 5 in cash and 1 in liabilities Lets say the cash had no risk Then according to you I have negative equity Because the person that did it took Risk Weighted Assets IE 0 and minused liabilities IE 1 so the sum  1
+
+I did it correctly Its Equity or capital divided by RWA

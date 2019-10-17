@@ -1,0 +1,5 @@
+Higher Alexa number 
+
+I propose using a different Alexa number as inclusion criteria I removed all wiki farms with Alexa higher than 6 million Since there is one wikilinked farm at 5357869 CustomerVision BizWiki
+
+I dont see the need to remove wiki farms with lower more web traffic Alexa numbers that dont yet have their own articles

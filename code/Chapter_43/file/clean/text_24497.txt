@@ -1,0 +1,3 @@
+Allocation in Windows 
+
+Does anybody know the way in which a PID is chosen for a new process in Windows I just ran two instances of Notepad and got PIDs of 4372 and 4880 then when I ran a third it got a PID of 3516 This seems to be a little random I take it theres some algorithm that chooses them and its not just random

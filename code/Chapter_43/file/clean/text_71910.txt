@@ -1,0 +1,17 @@
+Sandbox proposal for Wikipedia Belarusian geographical names 
+
+I just read UserIryna HarpysandboxWikipedia Belarusian geographical names and I applaud you for undertaking this effort
+However while I appreciate the idea of using the romanization as used by the Belarusian government as the basis the transliterationtranscription seems to be inconsistent between the various layers of government That is the website of the central government uses other romanizations than the websites of the regions For instance the website of Gomel Region uses Yelsk and Oktiabrskiy while the website of the central government uses Elsk and Oktyabrskii In addition in your sandbox I find forms that are used on neither website You write Svietlahorsk while both the central government website and the Gomel Region website use Svetlogorsk
+
+If this proposal is to have any chance of being adopted I think it should as much as possible try to use the same source for most of its transcriptions The central government website seems the most logical choice to me
+
+However unfortunately I cannot say that I am completely satisfied with the romanizations used by that website Heres a few reasons why
+ the transcription of iotation  palatalization is wildly inconsistent
+ in some names iotationpalatalization is not marked Elsk Svetlogorsk
+ in others iotationpalatalization is marked using the letter y Oktyabrskii Kostyukovka
+ in yet others the letter i is used for the same purpose Liozno
+ in still others the letter j is employed Marjina Gorka
+ sometimes in one part of the word iotationpalatalization is marked while it isnt in another part of the same word Myadel Cyrillic  pronounced 
+ the ending  is inconsistently romanized Compare Oktyabrskii and Pervomaiskiy as a bonus observe that the first i in Pervomaiskiy is a transcription of  which on the rest of the map is usually transcribed as y
+
+Observing these inconsistencies I am not convinced that using these romanizations is the solution While BGNPCGN may not be perfect it is at least consistent If this this and this are the alternatives I think we should stick to our existing policy of using BGNPCGN

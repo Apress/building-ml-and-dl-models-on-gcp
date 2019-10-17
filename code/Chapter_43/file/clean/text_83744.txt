@@ -1,0 +1,17 @@
+The solution without a reference 
+
+    Y1
+    N0      
+ M1
+
+N0 never produces an output The algorithm always produces a M1 result when the answer is Yes from the oracle queried and never produces a result when the answer is N0 even to the other possible phrasings of the same query It is striking how easy it is to miss the ingenuity of our programmers here Most of the solution was already present as much as the pioneers and experts in the field surmised and asserted possible Particularly the comment on Fermats Last Theorem is relevantly applicable such deep theories are in many instances required to solve largely thought unsolvable problems especially in cases when most of the solution and the proof in the word was already known to the experts in the field
+
+The algorithm answers Yes with M1 when the output produced from a correctly asked question produces never a No written as N0 result but only a Yes result Incorrectly stated questions are they that cannot be resolved because they result in a N or No output never producing m by the computer given an incorrectly asked question Given a correctly asked question the computer will always return a M output eventually But given the complexity of the question and the known variables the time required to solve an NPComplete problem depends entirely on the specific incidence and construction of this algorithm To illustrate the functions here is a clear example
+
+Question correctly asked Does the remote control not need new batteries
+
+ALGORITHM says check the button function if it changes the channel on the TV or the volume of the TV the computer monitoring the remote control produces a M result The conclusion is output Yes means no
+
+Incorrectly asked question seeking an NPComplete problem Does the remote control have new batteries 
+
+If the check of the remote control does reveal a failure of the button to change the channel or volume of the TV the answer is the conclusion is never output because this would be a No or N response502018681  I Jesus leave it as a proof to all life It is not the most elegantly stated so please forgive my not being more concise but the solution is air tight I promise you children

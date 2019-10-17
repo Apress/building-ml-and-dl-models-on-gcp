@@ -1,0 +1,9 @@
+Wikidata and Interwiki links 
+
+You are receiving this as you have recently added an interwiki link to a page
+
+Wikidata has been deployed to the English Wikipedia Wikidata manages interwiki links on a separate project on pages such as this This means that on Wikipedia articles there is now a language bar on the left hand side of your screen where you can edit and add links rather than adding them into the articles themselves
+
+If you have any questions regarding Wikidata please use the talk page Wikipedia talkWikidata 
+
+ Talk To Me

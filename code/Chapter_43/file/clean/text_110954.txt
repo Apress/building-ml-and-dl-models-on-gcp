@@ -1,0 +1,1 @@
+Domain and codemain are not introduced till very near the end of the lead in the third paragraph  Formal definitions of functions give the set of inputs the domain the set of paired inputs and outputs and another set known as the codomain in which the outputs are constrained to fall   talk

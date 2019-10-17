@@ -1,0 +1,6 @@
+Article Neutral POV 
+
+Some of the points in this article appear to be written by someone particularly annoyed at Skype
+The Skype client for Linux has been observed accessing the etcpasswd file during execution24 This file contains a list of all user accounts on the system and may also include hashed passwords Access to this file can be confirmed by tracing system calls made by the Skype binary during execution As this file contains sensitive system information related to logins which are not used in the Skype system there is zero legitimate use for accessing this file and thus Skypes motives for doing so must be questioned
+
+This definitely isnt an impartial tone Impartial_tone

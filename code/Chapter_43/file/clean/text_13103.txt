@@ -1,0 +1,3 @@
+Gatherer Code 
+
+There is another internal to WOTC code for each set The code is used in Gatherer when an expansion set is chosen in the advanced search Sometimes these codes match up to the internal code that is already here but not always For example the code for Apocalypse is APC but for Gatherer it is AP Would it be possible to put these codes in the table along side the other code

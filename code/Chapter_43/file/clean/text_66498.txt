@@ -1,0 +1,1 @@
+Thanks But it looks like Baker hasnt released the image under a free license and we really shouldnt be using  I dont suppose you could ask him to mark the original as GFDL or similar

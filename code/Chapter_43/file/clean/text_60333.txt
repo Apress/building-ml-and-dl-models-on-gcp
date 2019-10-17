@@ -1,0 +1,1 @@
+You have fixed this issue However youve now effectively deleted the old TemplateLocation map Israel center ta and replaced it with a duplicate of TemplateLocation map Israel

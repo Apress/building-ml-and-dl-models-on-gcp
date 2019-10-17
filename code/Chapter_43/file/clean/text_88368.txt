@@ -1,0 +1,3 @@
+PDAs are NOT Embedded Systems 
+
+PDAs arent really considered Embedded Systems anymore They have become as generic as Personal Computer with a very large user space

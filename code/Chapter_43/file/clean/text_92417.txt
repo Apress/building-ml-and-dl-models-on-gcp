@@ -1,0 +1,1 @@
+The examples comparing Conventional sequential paradigm and Parallel SIMD paradigm packed registers SWAR are not contrasting at all The only difference is syntax Its so silly it looks sinply wrong not just misleading

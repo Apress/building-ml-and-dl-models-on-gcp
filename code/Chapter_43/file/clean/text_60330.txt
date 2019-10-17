@@ -1,0 +1,11 @@
+Linux Source Code 
+Acer have not released the complete source code of the Linus Lite installed on the Aspite One so I removed the following sentence from the page
+ In accordance with the GPL Acer has released the source code for Linpus Linux Lite and their modified Linux operating system
+Facts
+ The sources published do not match the installed versions
+ Sources for some important packages like the Thunar file manager are missing
+ The source rpm of xfdesktopacerlp the simplified UI contains precompiled binaries instead of code
+ The Linux kernel sources do not contain the source code of the madwifi stack needed for wifi
+ The entry for the r8108 module is missing from the kernel config so its not possible to build the driver for the included ethernet card
+When all these issues are fixed the sentence I removed can be inserted again but until then its wrong
+80143235160

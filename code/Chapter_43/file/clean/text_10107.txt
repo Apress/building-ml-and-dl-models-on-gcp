@@ -1,0 +1,3 @@
+Bogus math 
+
+In the Power quantities section whats the point of asserting Lp  05lnPPo  10LogPPo when it is true only for the degenerative case P  Po Also why term Po as reference power P  Po should be P1  P2 that is any arbitrary power measurements Likewise for the Field quantities section

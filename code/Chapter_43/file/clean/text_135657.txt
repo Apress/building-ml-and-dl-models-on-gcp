@@ -1,0 +1,1 @@
+The undos made on September 3 2009 were due to the deletion of a reference after an edit  Other references that referred back to the deleted reference became orphan and a full original reference had to be introduced in the appropriate place

@@ -1,0 +1,6 @@
+Clean Up and Synopsis rewrite 
+I am going to clean up the first part and add some material 
+
+Prior to doing this I am going to make a list of fixes and changes Then archive all the comments Then a first draft rewrite Is there anybody maintaining this
+
+Thanks

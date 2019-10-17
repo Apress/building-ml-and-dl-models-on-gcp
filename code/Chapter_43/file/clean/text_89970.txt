@@ -1,0 +1,15 @@
+0
+ò e
+x2
+dx  with FontSize 12pt integral sign
+
+0
+ò e
+x2
+dx
+
+DISCOVERY August 26 2007 Respected reader and Wikipedian As yet I do not know how to handle this problem In reading the above line of
+Wikipedia text testing formatted lines by example from different Internet Browsers Windows Explorer and Mozilla Firefox both latest version 
+my computer shows that Firefox presents just plain ASCII characters type 0 ò  and 2 zooming the text in Ctrl with NUMPAD for greater and
+NUMPAD for smaller  my computer screen shows that Windows Explorer but not Firefox partly vandalises the text the right part e
+disappears and merges with the left part

@@ -1,0 +1,6 @@
+Date header
+What do you think of this for a header at the userpage to replace the line of  templates
+
+Today is       UTCGMTThere are  articles on the English Wikipedia
+
+Maybe I could even add information about what numbered day into the year it is how many days left etc Could put it into a centered table with a border or something maybe Thoughts ArielGold

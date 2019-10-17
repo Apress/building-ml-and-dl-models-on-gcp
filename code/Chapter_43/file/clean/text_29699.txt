@@ -1,0 +1,3 @@
+References section is NOT locked
+
+References section is not locked but uses inline citations in accord with WPCITE

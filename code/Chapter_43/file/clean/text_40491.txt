@@ -1,0 +1,8 @@
+TFD closings 
+
+Thanks for helping out with clearing the TFD backlog However I hope you dont mind a couple of suggestions 
+If you close a decision as keep please edit the relevant template remove the deletion notice and add a link to the debate that resulted in keeping it
+If you close a decision as delete please list the relevant template in the holding cell at the bottom of TFD so that it can be properly deprecated and deleted
+Please dont make closing statements as keep until Mediawiki updated unless you know that such an update is actually forthcoming
+Please dont invalidate votes because they refer to uselessness lack of usability is a good reason for deprecating a template However as you correctly say ugliness is not  that would be a reason for editing the template
+Yours adiant_

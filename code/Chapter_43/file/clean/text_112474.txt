@@ -1,0 +1,7 @@
+The Japanese translation is MagicBased armor
+
+ EspersPhantom Beasts 
+
+While I did not DELETE the term esper I did go and place in the alternative for esper  In the Japanese context theyre known as Phantom Beasts or even shorter Genju  There is an alternative 100 translation available at this time that features the proper translation and also includes bug fixes created for Ted Woolseys translation he never even attempted to fix them
+
+The fixes include but are not limited to Evade  now actually works the vengeful Cayene bug is fixed the item as a hat trick is fixed etc  These are obviously implemented to fix things like inbalances as well as bugs that are considered to be stupid mistakes

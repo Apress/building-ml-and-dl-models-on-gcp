@@ -1,0 +1,8 @@
+fffffffff   uuuuuu     uuuuu   ccccccccccccc  kkkkk   uuuuuuuuu
+fffffffff   uuuuuu     uuuuu   ccccccccccccc
+fffff       uuuuuu     uuuuu   cccc
+fffffffff   uuuuuu     uuuuu   cccc
+fffffffff   uuuuuu     uuuuu   cccc
+fffff       uuuuuu     uuuuu   cccc
+fffff       uuuuuuuuuuuuuuuu   cccccccccccc
+fffff       uuuuuuuuuuuuuuuu   cccccccccccc

@@ -1,0 +1,23 @@
+Korean article template 
+
+Hi thanks for your question  Sorry Im so late getting back to you  Life on and off Wikipedia has been full of all sorts of unexpected hecticity  Anyway the Korean article template 
+
+The idea behind the template is pretty simple  The basic idea is that every article should have the following unless there is some reason to the contrary
+ a relevant See also section 
+ at least one relevant Korearelated category and
+ a name table  
+ TemplateKorean on the Talk page
+
+In more detail
+The See also section should include a link to the List of Korearelated topics  LKRT and anything else thats obviously relevant but not linked in the article text  If you prefer you can just put in the LKRT link and let someone else add the others  If you want to add more heres the rule Ive been following  look in each category of which the article is a member  If that category has a main article like Korea in CategoryKorea then that main article should be linked  either from the text or from the See also section  The same for parent categories within reason  Heres an example  Munmu of Silla is a member of the categories Silla and Korean rulers  Thus the articles Silla and Rulers of Korea are linked in the article text  Those two categories are part of CategoryKorean history and CategoryKorean people  Thus History of Korea is linked in the See also section and so is List of Koreans well it is now   Both of those are members of CategoryKorea hence the link to the LKRT  
+You can find a complete  list of Korearelated categories at List of Korearelated topicsCategories  Or just start at CategoryKorea and work your way down
+TemplateKoreanname noimage is fine for the vast majority of articles  Cut and paste Template talkKoreanname noimageSyntax and fill in the blanks  All Korean name tables require you to specify at least these four variables hangul hanja rr and mr  Rr stands for Revised Romanization of Korean and mr stands for McCuneReischauer Romanization  If you dont know what should go in these fields just leave them blank  however at a minimum the hangul should be provided that allows other editors to verify the article and identify the other namerelated information  You can request help on the Korearelated notice board  
+This ones easy  Just paste Korean onto the top of the talk page  Done
+
+Most of our existing articles should already conform to this since we just finished a housekeeping sweep in June  But there are more new ones coming in every day
+
+Ive also taken to adding a Wish list to the talk pages of newinactive articles identifying 2 or 3 things that the article is lacking  Hopefully this will help other contributors see where they can help   Of course if I can contribute the information myself I do so
+
+I hope this isnt all too overwhelming  Your excellent work so far is much appreciated 
+
+Cheers

@@ -1,0 +1,1 @@
+You apparently archived the page by copying the displayed text not the wikicode that generated it That broke the archives formatting for example the section headings I fixed it with this edit

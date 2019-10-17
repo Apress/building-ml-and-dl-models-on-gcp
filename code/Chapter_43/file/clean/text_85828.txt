@@ -1,0 +1,16 @@
+V is not equal to IR
+Facts
+
+1 In chemisty the number of electrons leaving a mass is determined by the voltage Source chemistry textbook 
+2 In induction physics the current is determined by the number of coils in the winding source physics textbooks 
+3 In circiut theory the current is determined by the load Source also physics textbook 
+4 these three things are all different 
+5 In the power industry there is also something called current draw which is a current not determined by the load but the power supply Source Con Edison training manual 
+6 All of these things with the exception of 5 are excepted theories of science that contflict with the electricity theory
+7 The units for charge are wrong The 4pi that is in F  q1q24pir2 the 4 pi is found experimentaly but is from the units
+
+I find that most circuits textbooks dont even talk at all about any scientist Many of whom pointed out alot of these things
+What I demand
+
+1 A scientific presentation of electricity theory that uses the scientific method 
+2 A list of people in the scientific community who actually accepted this and hold electrons to be a fact and more than a theory and on what basis of the scientific method did they accept it

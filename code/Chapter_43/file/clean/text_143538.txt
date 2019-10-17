@@ -1,0 +1,3 @@
+Requires human host 
+
+In the section Mosquito vectors and the Plasmodium life cycle it is not made clear whether the Plasmodium species that infect humans in fact require infection of humans in order to complete their life cycles or whether other mammals or birds are also important hosts for these species  711629031

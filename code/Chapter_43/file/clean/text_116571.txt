@@ -1,0 +1,8 @@
+GOCE November copy editing drive awards 
+
+ifeqwordsparticipation styleborder 2px solid gray backgroundcolor fffff0
+rowspan2 valignmiddle  
+rowspan2 
+stylefontsize xlarge padding 0 verticalalign middle height 11em 
+
+style

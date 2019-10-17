@@ -1,0 +1,3 @@
+to protect against the article subsequently being deleted and the history of the new page eradicated
+
+If a section is split from the original article a summary section should be left in the original main article At the top it should contain a link to the newly created page easily achieved with mainNewly created page name here template

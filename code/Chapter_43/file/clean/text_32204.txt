@@ -1,0 +1,8 @@
+Wrong formules 
+
+and
+
+are wrong first of all one is arcsin and the other is arcsin
+in adittion I have tried to use it and I am getting numbers like 00003º when was expected around 17º
+
+79109245126

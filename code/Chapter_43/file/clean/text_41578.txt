@@ -1,0 +1,3 @@
+BatchDistillsvg 
+
+I think ImageBatchDistillsvg works now Ive had to add x0 y0 to the svg tag it seems Wikipedias rsvg needs these data together with the width and height to get the correct rectangle for the image Ive also changed all font sizes to 16px the Cooling Water and Purified A labels looked bolder than the others on my machine Not sure how to check for this in Inkscape or make it do that automatically n

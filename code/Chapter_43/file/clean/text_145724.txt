@@ -1,0 +1,3 @@
+Bitrates 
+
+This section could do with some work Most other than marketers dont consider 128k to provide CD quality irrespective of codec Ok there is the langauge minimum possible but then on the other hand it gives 8Mbits as the minimum possible for DVD quality when this is more like the _maximum_ possible DVD bitrate and DVD quality can arguably be had for far less with a more efficient codec such as MPEG4  1637 16 Nov 2004 UTC

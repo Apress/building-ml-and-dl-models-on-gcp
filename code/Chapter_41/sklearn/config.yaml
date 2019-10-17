@@ -1,0 +1,4 @@
+deploymentUri: "gs://iris-sklearn/iris_20181119_050517"
+runtimeVersion: '1.8'
+framework: "SCIKIT_LEARN"
+pythonVersion: "3.5"

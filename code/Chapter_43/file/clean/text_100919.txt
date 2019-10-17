@@ -1,0 +1,3 @@
+t recognize types VIII  IX and XII I still dont understand why Pearson thought Eq 1 was the right way to derive probability distributions  
+
+ There seems to be an error in the derivation of type IV If b2  3 as indicated by the figure and from the negative sign of the discriminant how can m  12b2  05

@@ -1,0 +1,1 @@
+GE and later Honeywell  Multics Multics ran on the GE645 Honeywell 6180 and later machines  The main distinction above is between segmentation without paging Burroughs large systems and segmentation with paging Multics

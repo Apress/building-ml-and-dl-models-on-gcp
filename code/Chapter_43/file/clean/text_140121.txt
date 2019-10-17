@@ -1,0 +1,16 @@
+My preference to show how the equation of motion is derived 
+
+I copy and paste from above
+
+What is represented in the animation that gives the straightabove view is that the overall rotation affects the vibration the dynamics falls in the category of coupled oscillators 
+ True the pendulum is not free the Coriolis effect varies during the motion even if the rotational speed of the Earth is constant   
+
+In  I present that the Foucault pendulum precession and its sine law are readily understood in terms of coupling of oscillators   Talk 
+
+There is a difference of approach between my sandbox article and the english and french wikipedia articles I intend to integrate the material in my sandbox article into the english wikipedia article
+
+I believe that an encyclopedic article that features a mathematical treatment should focus on the derivation In the material that I have prepared the mathematical treatment starts with first principles and subsequently works its way towards the equation of motion
+
+Once the equation of motion is formulated the physics has been taken care of and I proceed no further
+
+I find the treatment in the current english wikipedia article and in the current french wikipedia article unsatisfactory in the following way the mathematical treatment merely states the equation of motion the physics taking place coupling of oscillations is not discussed   Talk

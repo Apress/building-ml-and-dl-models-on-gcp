@@ -1,0 +1,43 @@
+French Tarot and French Roulette  
+
+French Tarot and French Roulette can be corelated as follows
+
+  0
+  11
+  22
+  33
+  44
+  55
+  66
+  77
+  88
+  99
+ 1010
+ 11V
+ 12C
+ 13D
+ 14R
+ 151
+ 162
+ 173
+ 184
+ 195
+ 206
+ 217
+ 228
+ 239
+ 2410
+ 2511
+ 2612
+ 2713
+ 2814
+ 2915
+ 3016
+ 3117
+ 3218
+ 3319
+ 3420
+ 3521
+ 36
+
+That permits to use French Roulette as random modifier while playing French Tarot Zero can be used as special modifier

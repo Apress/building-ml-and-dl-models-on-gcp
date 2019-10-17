@@ -1,0 +1,16 @@
+Deleted Reference to GNU CGraph 
+The following is reposted here on advice from D noted at the end of this section
+
+Long before I wrote the proposed article GNU CGraph I included references under the articles Convolution theorem and Convolution for the benefit of students and their professors teaching and learning about convolution These references were removed by  and  Notwithstanding my belief that GNU CGraph meets the WPNotability criteria  pointed out external links arent required to be WP notable just relevant
+
+Most reasonable people would agree that removing the reference to the only software that easily demonstrates the convolution theorem would be a disservice to the public The text of the references reads
+
+Under ConvolutionExternal_links
+GNU CGraph a free software package for visualizing the convolution theorem and displaying signals with their spectral plots
+
+Under Convolution_theoremAdditional_resources
+GNU CGraph a free software package for demonstrating the convolution theorem and displaying signals with their spectral plots
+
+No doubt some WPAGF administrator will recognise the educational value and reinstate the references for the benefit of the public  
+
+Visionat the places for these discussions are TalkConvolution theorem and TalkConvolution not your own talk page Those pages are also where you should have suggested the addition of links to the software you have written bearing in mind WPCOI to avoid any interpretation that you are promoting your own software you should suggest the addition of the links on the talk page and allow independent editors not necessarily administrators to decide whether the links are an asset to the articles If you look at WPCOIU you will see that an editor with a possible conflict of interest may make edits where there is clear consensus on the talk page though it is better to let someone else do it Thats the way to go Its nothing personal so your talk page is not the place for the discussion I hope that helps D

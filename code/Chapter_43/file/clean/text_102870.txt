@@ -1,0 +1,3 @@
+ISIL onlyinclude tags 
+
+Hi there I noticed you reverted the edit I made taking out the onlyinclude tags from the ISIL timeline page Since its not transcluded anymore and you fixed the main ISIL article Im wondering if theres still a need for these tags in the timeline page and if so why Thanks

@@ -1,0 +1,8 @@
+register bank switching 
+
+Many months ago you insisted that Wikipedia should say a few words about register bank switching
+
+I agree but to avoid controversy at the bank switching article
+I created the register fileRegister bank switching section in the register file article
+
+Perhaps someday people will add enough information to that section to justify splitting that section out into an independent article

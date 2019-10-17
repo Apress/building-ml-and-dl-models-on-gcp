@@ -1,0 +1,10 @@
+Barnstar
+
+ stylewidth 90 border 3px solid navy backgroundcolor D0D4FF
+rowspan2 valignmiddle  
+rowspan2 
+stylefontsize xlarge padding 0 verticalalign middle height 11em  Glens AntiVandalism Barnstar
+
+styleverticalalign middle bordertop 1px solid gray Glen is thrilled to award Tuxide with this small token of appreciation and acknowledgement for exceptional performance in the art of troll extermination ensuring Wikipedia is safe for public consumption and for spotting the latest MascotGuy sock now blocked You are a legend please keep up the great work Glen 
+
+PS If you log onto IRC Ill approve you too

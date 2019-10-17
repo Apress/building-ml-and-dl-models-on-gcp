@@ -1,0 +1,6 @@
+Bashar 1887
+ birth_date   
+ birth_place  West Hills Town of Huntington Long Island New York US
+ death_date   
+ death_place  Camden New Jersey US
+ signature

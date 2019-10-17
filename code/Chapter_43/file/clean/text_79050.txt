@@ -1,0 +1,3 @@
+I removed
+If V is separable it follows that any vector in V can be written as a possibly infinite linear combination of vectors from S
+Linear combinations are by definition finite so we would have to say a bit more to make this statement precise Even then Im not sure that it is true in general it surely works in Hilbert spaces though  1812 29 May 2003 UTC

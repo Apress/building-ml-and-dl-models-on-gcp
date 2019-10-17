@@ -1,0 +1,1 @@
+Definitely disagree Liskov and Inheritance are two separate issues For example you can have an inheritance relationship in an OO program while still violating the Liskov Substitution Principle

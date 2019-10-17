@@ -1,0 +1,3 @@
+AWB question 
+
+Yes to edit once every 15 seconds you would need a bot flag to avoid flooding recent changes

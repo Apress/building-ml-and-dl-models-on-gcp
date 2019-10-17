@@ -1,0 +1,3 @@
+And Again 
+
+Yup my IP is 21743192182 NOT 19593349 Im on BT Openworld in the UK Wikipedia if you are using mod_perl or any other precompiled language you may want to make sure variables definedreset in the code for each different user ie use of strict

@@ -1,0 +1,8 @@
+Unthinking automated corrections
+Your edit summary  at the article GrotrianSteinweg characterised the bulk of my edits as unthinking automated corrections and you reverted them In general I find the principles of WikipediaRevert only when necessary worthy of consideration In particular I assure you they were not automated and are the result of some thinking In detail
+the correct syntax for a reference invocation by name is as for any unary HTML tag to close it with a space preceding the slash 
+the wikilink for Germany in the infobox is a case of WPOVERLINK
+when using  the parameter  is unnecessary
+the term Initial Interest Confusion is capitalised at its article and I presume with good reason
+the template  is useful even for articles which currently already show all of that caterorys images as more files might be placed into that category in the future
+I suggest you revert your edit additionally please consider WPRevert only when necessary

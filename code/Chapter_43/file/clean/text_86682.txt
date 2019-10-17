@@ -1,0 +1,11 @@
+Kbks proposed changes 
+
+I reverted two changes by Kbk so they could be discussed here first
+
+First he removed the two sentences describing pseudoscience
+ by asserting claims or theories without first verifying them in experiments
+ by asserting claims without supporting experimental evidence
+
+Second he removed cold fusion from the list of pseudosciences and added it on the protoscience page on the basis that it is actually a protoscience
+
+ 7 July 2005 2229 UTC

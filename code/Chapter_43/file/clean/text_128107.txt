@@ -1,0 +1,1 @@
+MoE isnt even technically calculated correctly here in samples with more than 2 choices Hamiltonian is technically correct that both can range that way but generally the way statistical ties are determined are as it is now if they difference between the totals is less than the MoE

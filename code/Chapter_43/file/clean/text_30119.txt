@@ -1,0 +1,7 @@
+If you look at templatecite book you can see the parameters for a template that defines a cited book  I always use this template or others like templatecite journal or templatecite web because they automatically put the different bits of information into the right format  templatesfn gives a way to easily make a reference and footnote that link to the cited source thus
+
+Displays as
+
+The trick here is that the cite book template includes refharv which tells the template to make a footnote from the authors last name and the year of the book eg Smith 2009 and link it to the book definition  That may not always be possible because the authors name andor publication year may be unknown in which case you can tell the template what name to use for the footnote as in  refharvidNorwegian Blue 
+
+Enough  You just have to explore and experiment  Hope this helps

@@ -1,0 +1,5 @@
+SVG images 
+
+Hi Publius
+
+Do you have vector versions of the diagrams you have been contributing such as the Articles of Confederation Its better to upload such images as SVGs to Wikipedia as these will scale to larger display sizes and the printed page without the pixelation of bitmaps So it would be great if you could convert your work to SVG eg with Inkscape and upload those as well

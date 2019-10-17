@@ -1,0 +1,31 @@
+bcm versus km³
+Dear Gene Nygaard
+You said that generally everyone understands km³ I am not sure about this statement and find this use quite unusual and misleading Could you please give any example in gas industry where km³ is used maybe just some newspaper article Also if youd could find any article in wikipeedia about gas fileds or pipelines which use km³ I would like to get a reference  
+
+Google natural gas km3  823 hits
+
+Note that Google as far as I know wont search for the ³ character but this gets those that use either html superscripts or just km3 and the like
+
+There are other ways to find more of them  You will of course find many using bcm as well  But as I pointed out that may be jargon used within the industry but it is not known outside the industry there might possibly be other little pockets of its usage in other contexts even less known 
+
+another search on AltaVista
+km³ natural gas 3130 hits 
+
+AltaVista appears to treat ³ and 3 as synonymous unlike Google You can limit them to gov sites or to edu sites too to see that this isnt newspaper usage but in fact more likely to take place in more serious and professional contexts  
+
+BTW if you were arguing about tcf youd maybe have a better case  That is common enough in the industry more so than bcm that it is better known outside the industry too  
+
+I am able to use different search engages However could you please give any example of use km³  as an unit of capacity of gas pipeline Concerning tcf trillion cubic feet  its used more in the US gas industry while bcm is used mainly in Europe Dont see problem with this If you look the external links of this artcile you will find both tcf and bcm depending of the source
+
+ In the petroleum industry the unit systems used are Oilfield and Metric like what was mentoned above all depending on where you are and who you are working with However I have never come across km³ being used to describe gas field sizes or gas production and if someone was to describe a field or gas production in such a way to someone in the industry it would have no revelace to them it is not a standard of unit It would have to be Bcm Mcm E3M3 Bcf Tcf MMscf Mscf etc   
+
+Surely we writing for a general audience not only for people in certain industries  km³ is standard SI if some people in some industry want to use something else then thats their problem  PS Hello Gene ɪmp 
+
+ Very true Jimp we are writing for a general audience And when i searched some news articles by the likes of Forbes CNN Money etc on Google news in the past month for the phrase km3 in relation to gasgasfield gas field natural gas it returns one result from Petroleum World However the units tcf bcf bcm return   at least 102 147  51 hits when used with the above phrases And these are from Forbes Reuters CNN Money Globe and mail which i think you would agree are also writing for the General Audience The numbers are in their hundreds of thousands when you do just a general web search for tcf bcf and bcm compared to the 823 km3 turns up So its not really just some people in some industry using these terms  Cheers  
+Sure it is  But thats beside the point we at Wikipedia choose to use standard unit symbols not all the various offthecuff possibilities and km³ is the standard symbol for 1000000000 m³  It isnt surprising at all that financial magazines are too innumerate when it comes to units of measure to even understand what they are so sure they get passed on unchanged  So what   
+
+ Sorting on Øs 
+
+Are you quite sure that øs should be sorted under o The ø is a separate character and is sorted separately in Danish abcyzæøå   talk 
+
+Yes its sorted differently in Danish  But this i

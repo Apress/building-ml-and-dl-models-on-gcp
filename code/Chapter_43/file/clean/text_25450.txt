@@ -1,0 +1,1 @@
+Note that this matrix you linked to in the Wikipedia page is not for sRGB primaries but for the RGB primaries from the original WrightGuild data Its not meant to be used to convert colors for the web for example

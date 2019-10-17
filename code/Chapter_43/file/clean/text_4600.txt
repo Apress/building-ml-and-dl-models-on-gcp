@@ -1,0 +1,7 @@
+CM31 
+
+I think you may be accessing outofdate information The CM31 design was discontinued  read the following
+
+Globalsecurity report
+
+It has been replaced by the CM32 So I have changed the ROCA article accordingly

@@ -1,0 +1,7 @@
+Mukinbudin 
+
+1 Distances  where it says dist1 and location1  just copy that line and change the parameters to dist2 and location2
+2  gives you geographic coordinates for any Australian location
+3 Will look at Shire of Mukinbudin today
+
+Orderinchaos78

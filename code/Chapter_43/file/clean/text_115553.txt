@@ -1,0 +1,3 @@
+Inferno 
+
+Vita Nuova made Inferno  Bell Labs made plan 9 Inferno is derived from plan 9  Much like HPUX is derived from Unix SysV that does not make ATT the creator of HPUX  For this reason I have put Vita Nuova back as the creator of Inferno

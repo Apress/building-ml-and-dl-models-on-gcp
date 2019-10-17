@@ -1,0 +1,1 @@
+I dont think Overclocking is the right place to talk about these since the manufacturer has specified the processor to run that fast In the example that IS a 32GHz processor by specification each core is guaranteed to run at that speed Its only when running with more cores that it downclocks and reduces its voltage to stay within a sane thermal and current envelope 12895196120

@@ -1,0 +1,3 @@
+Bot work request 
+
+I will need to know exactly the length of the duration you wish for me to include it  Also although it is a trivial change you might need to list the request at Wikipedia talkBots and make sure no one objects to the change before I can implement it  talk 1136 4 Mar 2005 UTC

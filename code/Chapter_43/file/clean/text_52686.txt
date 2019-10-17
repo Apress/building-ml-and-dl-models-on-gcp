@@ -1,0 +1,7 @@
+POSIX next steps 
+
+I added the missing headers I think it would be easier to note the differences in the C Standard Library than to make new articles
+Sadly the documentWebsite is not very userfriendly to make it sound nice
+Why is it important to note the Issues 
+Order things from old to new would make more sense with maybe short explanations
+What do you think

@@ -1,0 +1,13 @@
+Oppose at this point because I think some preliminary centralised discussion should take place first if it hasnt already and if it has then link to it please There are at least two open related requests at this time This RM and a requested merge between Girl Guiding and Girl Scouting and Girl Guides 
+
+The worldwide situation is extremely complicated and further organisational changes are inevitable in the long term see ScoutingCoeducational 
+
+Theres an overall plan for the relevant articles at Wikipedia talkWikiProject Scouting which includes the observations 
+
+Girl Guide Girl Scout  redirect to GGGS US line of thinking 
+
+and 
+
+Boy Scouts Girl Guides etc  General summary pages that have see also links to other Scouting pages Used to avoid to lead users to more indepth articles no longer disambiguation pages due to all the confusion of different naming conventions All other plurals redirect to the singular per Wikipedia standard not to Scouting or a separate organization oriented article
+
+so rather than reinventing the wheel lets see whether this plan is still a good one and if not lets discuss and either abandon or update it rather than ignoring it

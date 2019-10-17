@@ -1,0 +1,13 @@
+OpenSXCE disappeared  how to resurrect it 
+
+Hey Mark I read a surprising comment about OpenSXCE software linux distribution article of unclear notability lacking independent references
+
+OpenSXCE was never a Linux distribution I suspect I may have contributed to the wikipedia article in the past at some level and I was getting ready to recontribute to the article again since a new release was pending  when I found OpenSXCE deleted
+
+OpenSXCE is not Linux based but is based upon forked Open Sourced Solaris source code released by Sun Microsystems but reclosed by Oracle Linux and OpenSXCE have disjoint licensing criteria meaning the kernel software is illegal to mix The OpenSXCEs roots are preLinux with decades of history There was a rename  rebranding from MarTux to OpenSXCE which may have caused some confusion
+
+Notability There was a variety of OpenSolaris splinter distributions one splinter is the basis of one of Gartner Magic Quadrant for cloud providers OpenSXCE is the only current Open Source splinter that runs under SPARC architecture SPARC architecture is a unique open CPU architecture supported by multiple vendors currently the fastest CPU architecture on the market today running the fastest nonclustered machines in the market today and recently powered the fastest supercomputer in the world for nearly 12 months running OpenSXCE marks one of 3 currently supported OSs Oracle Solaris Fujitsu Linux open source OpenSXCE which runs under SPARC systems OpenSXCE is the only Open Source OS today running under this Open Architecture which is not supported a by commercial vendor OpenSXCE releases had been reviewed by multiple technical web sites in the past
+
+I have been in the computing profession for over a quarter century an expert in some areas a novice in others While I do not contribute to this Open Source project I am very aware of its unique value in Open Source open CPU Architectures and HighEnd systems I dont have a lot of spare time but make some when something notable appears I am not an expert in Wikipedia markup but have contributed for some time I really dont have the time to be recreating articles of significance but it is significant enough that I am willing to recreate this page
+
+What is the process to resurrected the old page or would I unfortunately need to recreate a new page

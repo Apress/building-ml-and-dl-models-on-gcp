@@ -1,0 +1,7 @@
+Simpler example 
+
+I just posted a simpler example to TalkContinuation of implementing threading with callcc  The problem with the example in this article is that its hard to read it mashes up confuses the jobdispatching queue with the forkyield concepts  The TalkContinuation separates the two making the code both easier to read and also making it clear how to write a general job scheduler which has nothing at all to do with callcc    
+
+Exception handling
+
+This aricle should also provide an example of implementing exception handling with callcc

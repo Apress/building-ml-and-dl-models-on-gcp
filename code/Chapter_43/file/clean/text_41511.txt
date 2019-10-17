@@ -1,0 +1,4 @@
+Military equipment
+I wonder what kind of format the table should have and what info should it contain There are three kinds of important info about equipment 1 which systems the combatant had 2 how many of those systems they had 3 which systems were deployed to the theatre or used during the war 4 how many systems were lost during the war
+
+Would it be possible to have all that info in one table or should we make multiple tables or would that be too much

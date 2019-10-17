@@ -1,0 +1,3 @@
+Heterogeneous System Architecture 
+
+Support for ARM bigLITTLE with either Inkernel switcher CPU migration or Heterogeneous multiprocessing global task scheduling is missing Other possible HSAfeatures are missing Eg the ARM CortexA15 features stuff that elder CPUs do not More documentation on that would be nice

@@ -1,0 +1,1 @@
+Better but now it replaces workVariety magazineVariety with workVariety  the extra pipe should be removed  Thanks

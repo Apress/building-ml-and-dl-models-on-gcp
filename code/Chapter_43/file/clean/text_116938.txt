@@ -1,0 +1,13 @@
+Sails as wings 
+
+I think that this might be an oversimplification of the matter as it depends largely on both the type of rigging being used and the direction relevant to the wind direction that one wishs to go
+
+For instance many of the large square rigged ships did move essentially through the force of the wind pushing on the sail I suppose technically the wind is piling up behind the sail thus high pressure area and the difference in pressure between the higher and lower pressure areas on opposite sides of the sail causes it to move which is the same principle as that which generates lift However unlike in the case of aerofoils aka wings there is not a higher wind speed going across the back of the sail than the front
+
+In short while the pressure differential as cause of movement remains valid the cause of these pressure differences is not the same as for wings
+
+Lift force
+
+Anyway hope this helps
+
+Zitchas

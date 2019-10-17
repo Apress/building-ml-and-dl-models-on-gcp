@@ -1,0 +1,7 @@
+Bug in pseudocode and implementation 
+
+This looks wrong for the case where either the left or right set has multiple matches for any single row in the other set
+Given simple result set 
+LeftABCD
+RightB C C D E
+This code would give B C D while the correct result is B C C D

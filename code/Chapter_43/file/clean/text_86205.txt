@@ -1,0 +1,7 @@
+2005 UTC
+
+I wrote the paragraph quoting Lindley that Peter finds puzzling Bayes theorem can be expressed in the form
+
+Posterior probability  Prior probability x Likelihood
+
+If the prior is zero then so is the posterior since zero times anything equals zero A similar argument applies if the pror is 1 The likelihood is the part which mathematically models the information content of the data In the case where the prior is zero it makes no difference what the likelihood is since it just gets multiplied by zero to make zero So by choosing a prior probability of zero or one you cut yourself off from the ability to take on board the informaton contained in the data I hope this helps 2321 19 September

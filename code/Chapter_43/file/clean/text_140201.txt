@@ -1,0 +1,1 @@
+I just reviewed the MOS and it looks like they have recently certified Blockquote tag use  The quotation template is based on the Blockquote tag but includes boxes  background  Let me submit the question on the talk if this tag is the recommendation for long quotations   talk

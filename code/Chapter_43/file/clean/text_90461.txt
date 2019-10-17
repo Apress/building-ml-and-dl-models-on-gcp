@@ -1,0 +1,12 @@
+A couple of maintainability suggestions for the table 
+
+Currently the table is sortable using HS for all columns  
+If we used dts22 October 1949 for the dates we do not have to put the dates in twice in the column and we can enter the date in any format we like
+
+Currently there is a HS and a age in years and days for the length of service for a manager  Isnt the age in years and days on its own enough
+
+This is the result of making the changes
+
+ Name  Nat  Date of birth  Club  Division  Appointed  Time as manager Arsène Wenger   Arsenal Premier League   Paul Tisdale   Exeter City League Two   Chris Wilder   Oxford United League Two   Mark Yates   Cheltenham Town League Two  
+
+  Text Me

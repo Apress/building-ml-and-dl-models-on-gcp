@@ -1,0 +1,7 @@
+haskell code 
+
+Quoting the article  
+
+The base case can also be thought of as a single zerobit Gray code n0 G      which is made into the onebit code by the recursive process as demonstrated in the Haskell example below
+
+I dont see any haskell code in the article Anyone does

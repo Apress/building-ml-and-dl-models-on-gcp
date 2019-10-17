@@ -1,0 +1,1 @@
+Im fairly certain CDVF stores all configuration settings in a file called vfdatadat Just delete that file and they will reset  Talk

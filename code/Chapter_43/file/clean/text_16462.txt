@@ -1,0 +1,4 @@
+1 I think I understand notability criteria well and thats orthogonal to my editing habits
+2 Please show specific parts of WPN that are being violated
+2 I do not say that Memory management in C should contain only malloc It will include whatever WPRS say Dynamic memory allocation in C means including realloc free calloc Thus there are no issues with scope 
+3 The following two WPRS establish notability and remove any doubts of WPOR for Dynamic memory allocation in C SGGanesh  Dynamic Memory Allocation in C Dr MK Sharma Dr MP Thapliyal  Concept of Computer and C Programming

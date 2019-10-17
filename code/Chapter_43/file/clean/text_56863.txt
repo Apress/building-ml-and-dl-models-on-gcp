@@ -1,0 +1,69 @@
+Archive Index 
+
+
+This report has been generated because of a request at User talkUkexpat It covers the archives that match User talkUkexpatArchive 
+Report generated at  by 
+
+ classwikitable stylewidth 100
+stylebackground ddf Discussion Topic 
+stylebackground fdd Replies estimated 
+stylebackground ddf First 
+stylebackground fdd Last 
+stylebackground ddf Duration 
+stylebackground fdd Archive Link
+
+stylebackground eef Ad nauseum ad nauseam 
+stylebackground fee 3  
+stylebackground eef 20080108 230300 
+stylebackground fee 20080109 193300 
+stylebackground eef 20 hours and 30 minutes 
+stylebackground fee User talkUkexpatArchive 1
+
+stylebackground dde HELP US MAKING THE PROJECT OF ANCIENT GREEK WIKIPEDIA 
+stylebackground edd 1  
+stylebackground dde 20080530 195500 
+stylebackground edd 20080530 195500 
+stylebackground dde None 
+stylebackground edd User talkUkexpatArchive 2
+
+stylebackground eef    
+stylebackground fee Unknown  
+stylebackground eef Unknown 
+stylebackground fee Unknown 
+stylebackground eef Unknown 
+stylebackground fee User talkUkexpatArchive 1
+
+stylebackground dde  
+stylebackground edd 1  
+stylebackground dde 20080915 033800 
+stylebackground edd 20080915 033800 
+stylebackground dde None 
+stylebackground edd User talkUkexpatArchive 4
+
+stylebackground eef confused 
+stylebackground fee Unknown  
+stylebackground eef Unknown 
+stylebackground fee Unknown 
+stylebackground eef Unknown 
+stylebackground fee User talkUkexpat
+
+stylebackground dde How do I move a new article from my user page to the live Wikipedia   even better could one of you do it for me 
+stylebackground edd 1  
+stylebackground dde 20090626 225400 
+stylebackground edd 20090626 225400 
+stylebackground dde None 
+stylebackground edd User talkUkexpatArchive 10
+
+stylebackground eef How do I move a new article from my user page to the live Wikipedia  it may need a tiny bit of editing but ive been told   an article doesnt need to be complete to put in in the live wikipe 
+stylebackground fee Unknown  
+stylebackground eef Unknown 
+stylebackground fee Unknown 
+stylebackground eef Unknown 
+stylebackground fee User talkUkexpatArchive 11
+
+stylebackground dde Refinery 
+stylebackground edd 1  
+stylebackground dde 20100625 192200 
+stylebackground edd 20100625 192200 
+stylebackground dde None 
+stylebackground edd urlencodeU

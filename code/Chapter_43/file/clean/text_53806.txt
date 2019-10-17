@@ -1,0 +1,33 @@
+Templates for commons move autotag 
+
+These are a list of protected templates on which the commons auto tag applied to other
+Image licensing tags such as to PDSelf would be desirable
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some image stemplates  media have been omitted because of specfic details making an autotag unwise

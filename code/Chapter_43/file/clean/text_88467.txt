@@ -1,0 +1,1 @@
+Yes just add the import line at SpecialMypageskinjs  TC

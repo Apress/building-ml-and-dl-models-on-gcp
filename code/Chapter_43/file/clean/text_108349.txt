@@ -1,0 +1,1 @@
+I forgot to mention that as it currently is and no matter what conversion you are using the values of column 3 are wrong

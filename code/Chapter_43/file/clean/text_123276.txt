@@ -1,0 +1,29 @@
+styleborderspacing8pxmargin0px 8px width100
+classMainPageBG stylewidth 55 border2px solid DDDDDD backgroundcolorF0F0F0 verticalaligntopcolor000000fontsize 100
+
+Welcome  to Wikipedia
+
+Wikipedia is an enormous community filled with knowledge and opportunity  Wikipedia currently consists of at least  articles and  users as well as many other resources  In joining I hope you will benefit from this amazing supply of knowledge  I also hope you will consider having this community benefit from you and your expertise
+
+If you ever need help feel free to contact me on my talk page  Also placing helpme on your own talk page will notify advanced users that there is an unanswered question there
+
+I suggest looking over some of the pages I have listed below before you begin  Be sure to enjoy your new opportunity to learn and educate others
+
+ Talk  
+Useful Links for New Wikipedians
+These links will not cover everything do not hesitate to contact me or someone else
+
+Basics of Wikipedia
+
+With the following links you can find out the basics of how Wikipedia works
+ Wikipedia Welcome Page
+ Wikipedia Tutorial
+ Instructions on editing pages
+ Guide to writing great articles
+
+Personal Pages
+
+Below are pages that are about you  You can use them to communicate with other Wikipedians and help you with your edits
+ 
+ Your Talk Page
+ Your Contribution Log

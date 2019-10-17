@@ -1,0 +1,7 @@
+Pareto Efficiency and Optimality
+This page is messed up
+ While there is a relationship between Pareto Optimality and Pareto Efficiency
+ they are different results  I use Pareto optimality in my consulting see also
+Wiederhold Gio What is Your Software Worth Communications of the ACM Vol49 No9 Sept2006 p6575
+Some statements under P Efficiency belong under optimality as most of the first paragraph  
+Pareto Optimality deserves its own page But now it redirects and I dont know how to change that

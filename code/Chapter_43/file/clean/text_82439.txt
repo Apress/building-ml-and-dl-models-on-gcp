@@ -1,0 +1,3 @@
+References vs Sources 
+
+Stop changing the ref tags Ref tags are cleaner and look more professional If you would like to quote a reference put it in ref tags Thanks

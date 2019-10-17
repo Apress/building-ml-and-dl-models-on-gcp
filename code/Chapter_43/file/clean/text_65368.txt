@@ -1,0 +1,4 @@
+Error in AWB 8032 
+
+I just jumped from AWB 8000 to 8032  Im getting an error with the code UserYobotTask 17
+Error is Line 95 col 52 No overload for method MakeHumanCatKey takes 1 argument

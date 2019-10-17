@@ -1,0 +1,5 @@
+0
+ id        ar
+ info      This user does not understand Arabic
+userboxlevel
+ level

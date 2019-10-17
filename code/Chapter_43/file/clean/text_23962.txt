@@ -1,0 +1,7 @@
+Corrections to discussion about sky glow in LP page and in main sky glow page 
+
+1 Light is scattered by molecules Rayleigh scattering and aerosols  not refracted
+2 Aerosol scattering dominates in most places  in clear ir see Garstang 1986 PASP the total scattering from aerosols is 10x that from molecules
+3 Aerosol scattering has almost no wavelength dependence reducing the dominance of blue light influence below that expected from pure Rayleigh scattering and the RSI of Keith
+4 But the Purkinje effect makes the eye more sensitive to whiteblue rich light when dark adapted most relevant when looking atadapted to sky glow only marginally relevant when looking atadapted to outdoor night lighting levels increasing again the dominance of whitebluerich sources
+5 The Bortle scale has made very little or no penetration into professional astronomy  astronomers when they characterize skyglow at all still use magarcsec2  Bortle scale is being used by amateurs and is being investigated in some detail by US National Park Service as a useful scale to characterize night sky quality  Finally the Bortle scale uses much more than just sky glow to characterize skies

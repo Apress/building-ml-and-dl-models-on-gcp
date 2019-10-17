@@ -1,0 +1,1 @@
+The default thumbnail sizes tend to make portraits bigger in comparison to landscapeformat images which does warrant compensation when the landscape images have more information

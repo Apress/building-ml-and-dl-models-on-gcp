@@ -1,0 +1,15 @@
+The community is requesting restoration of article creation to unregistered editors  
+
+This has been discussed in various places and consensus has been achieved in each
+
+The relevant parts of the latest discussion this week at User talkJimbo Wales are as follows
+
+When they search a topic and theres no article let the comment be
+
+You may create the page X but consider checking the search result below to see whether the topic is already covered 
+
+The proposal to allow article creation by unregistered editors within pending changes has been discussed at the Village Pump and in a thread here which was archived yesterday morning 
+
+Pending changes reviewers do not fret  any autoconfirmed editor will be able to review these articles  the first edit by an autoconfirmed editor whether pending changes reviewer or not will automatically remove the article from pending changes so that the content becomes visible to the general public
+
+Please ask the developers to implement the change 10915612254

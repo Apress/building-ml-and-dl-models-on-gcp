@@ -1,0 +1,2 @@
+SYN Flood Attacks  20080323
+During the last days we had many downtimes The reasons of these downtimes are that our server is target of TCP SYN flood attacks A SYN flood attack is a denial of service DoS attack that consumes all the resources on your machine forcing you to reboot To protect against SYN flood attacks we have implemented the SYN cookies technique which disposes our server not to save any information about halfopen TCP connections and prevents memory allocation to fully overload

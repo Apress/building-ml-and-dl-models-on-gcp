@@ -1,0 +1,6 @@
+Thanks I appreciate your kind words Some of the ideas I have in mind are 
+ adding information concerning online copies of journal papers lots of journals publish at least a part of their papers online for free  the system should inform the user that at this and that url there is probably a online copy 
+ more or less automatic updating of the db according to the growing use of ref templates in WP articles
+ extending this to multiple Wikis eg German French etc need multilanguage support but also separate wikilinks according to language etc
+ extending this to other areas Physics Computer Sciences etc
+ user management which will become necessary when the DB gets the attention of vandals etc

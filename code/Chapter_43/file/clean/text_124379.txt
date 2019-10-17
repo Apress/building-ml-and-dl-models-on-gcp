@@ -1,0 +1,1 @@
+By true image format I guess you mean displayindependent format  Okay that definitely sounds worth mentioning  I remember writing a PCX parser in VB6 so I could use it in some DX7 rendering  That was pretty fun but also pretty stressful

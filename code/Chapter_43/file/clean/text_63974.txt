@@ -1,0 +1,14 @@
+What me know what Im talking about just commiting a bit of original research and shouting history
+Anyway I did a bit of digging in  google which turned up
+Gregory St Vincent Grégoire de SaintVincent with 
+The Greeks described a spiral using an angle and a radius vector but it was St Vincent and Cavalieri who simultaneously and independently introduced them as a separate coordinate system In an article The Origin of polar coordinates J J Coolidge refers to the priority dispute between Cavalieri and St Vincent over their discovery St Vincent wrote about this new coordinate system in a letter to Grienberger in 1625 and published the process in 1647 On the other hand Cavalieris publication appeared in 1635 and the corrected version in 1653
+and Milestones in the History of Thematic Cartography
+Development of the use of polar coordinates for the representation of functions Newtons Method of Fluxions was written about 1671 but not published until 1736 Jacob Bernoulli published a derivation of the idea in 1691 238p 324 attributes the development of polar coordinates to Fontana with no date Isaac Newton  16431727 England and Gregorio Fontana  17351803 and Jacob Bernoulli  16541705 238p 324 1671 is probably too early 17361755 would probably be more appropriate There are earlier references to Hipparchus 190120BC regarding the use of polar coordinates in establishing stellar positions and Abu Arrayhan Muhammad ibn Ahmad alBiruni 1021 regarding the use of three rectangular coordinates to establish a point in space
+1843 Use of polar coordinates in a graphfrequency of wind directions Léon Lalanne 18111892 France 148
+La Habra High School Math History Timeline
+Jacob Bernoulli invents polar coordinates a method of describing the location of points in space using angles and distances
+Sherlock Holmes in Babylon and Other Tales of Mathematical History has a section
+Newton as an originator of polar coordinates
+Jacob Amsler httpwwwhistorymcsstandacukhistoryPrintonlyAmslerhtml
+Amsler invented the polar planimeter a device for measuring areas enclosed by plane curves It was based on polar coordinates whereas earlier instruments were based on cartesian coordinates In 1856 Amsler published a paper Über das Planimeter in which he gave details of his idea As Mahoney writes in 1 Amslers planimeter  adapted easily to the determination of static and inertial moments and to the coefficients of Fourier series it proved especially useful to shipbuilders and railway engineers 
+So it seems there is considerable different accounts of their introduction and quite a few notable applications

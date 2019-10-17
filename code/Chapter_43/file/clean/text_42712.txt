@@ -1,0 +1,19 @@
+Question about maltose binding protein article 
+
+Hi Victor
+
+Just now Im solving this problem with respect to this maltose binding protein tag I found this article on wiki And here is what you wrote
+
+Once the fusion protein is obtained in purified form the protein of interest X is often cleaved from MBP with a specific protease Protein X can then be separated from MBP by passing through the amylose column again
+
+It would be great if you can explain how can Protein X can then be separated from MBP by passing through the amylose column again because I have tried it and it doesnt work My personal guess is since MBP binds to maltose it simply doesnt bind to amylose resins  column unless maltose is removed beforehand
+
+Then the question is how to remove maltose from MBP From Davidson et al Mechanism of maltose transport in Escherichia coli Transmembrane signaling by periplasmic binding proteins 1992
+
+Preparation of MaltoseFree MBP
+
+MBP was purified by affinity chromatography and was dialyzed extensively under conditions calculated to remove most of the bound maltose For some experiments MBP was denatured in 6M guanidine hydrochloride GdnHCl and either dialyzed against 6M GdnHCl or passed through a Sephadex G25 column equilibrated with 6M GdnHCl before renaturation by dialysis against 10mM KP1 pH 70 UVdifference spectroscopy showed that the bulk of the MBP was free of maltose
+
+Hope to hear from you soon
+
+Martin

@@ -1,0 +1,4 @@
+classmessagebox standardtalk styletextaligncenter
+
+ width48px  
+ This article was nominated for deletion  The result of the discussion was keep

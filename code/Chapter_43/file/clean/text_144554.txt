@@ -1,0 +1,11 @@
+Okay I understand that the encyclopedia needs to describe things in a way that reflects the industry standards so Im not disputing this Wikis use of which connector type is male vs female But I am however still just curious about it These are my questions
+
+1 With other cables Ive seen the MALE end is the one where there is a center pin or set of pins plugging into a jack where theres a receiving hole in the center whether or not theres also a femalelike sheathe of some kind around the connector pins For examples coaxial cables F RCA etc DIN cables Svideo some older rounded computer cable plugs etc D plugs and DVI Of course there would be others too Okay so the one with the pins has been male while the one that the pins plug into is female even if the one with the holes fits into an outer casing that the one with the pins is in
+
+Well thats been true up until HDMI came out apparently Look at HDMI and what the industry is calling its female and male ends Theyre calling the end with the pin row the female end and the end with the slot that the row of pins plugs into the male end and keep in mind that the end with the bar of pins is also the end with a femalelike casing around it just as I pointed out above yet those above like that are still MALE yes the slotted end of HDMI sortof plugs into the sheathedlike end but then so do several of those others I mentioned above which were always called FEmale because what really counts has been the PINS not the edges So why isnt HDMIs PIN end the one called MALE like the others
+
+2 Who is it in the industry that first insisted that this slotted end of HDMI should be called backwards of other kinds of plugs the male end and that the end with the pins in the middle should be called backwards of other connectors the female end Who from the industry started that and sortof dictated to encyclopedias etc that this is how its supposed to be and what made them the supposed authority
+
+Thanks
+Mike
+Member Maxx Fordham

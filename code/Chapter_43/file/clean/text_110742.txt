@@ -1,0 +1,5 @@
+Hi
+
+The story of C Builder Delphi and RAD Studio is very similar to the story of Visual C Visual Basic and Visual Studio In fact I suspect they may be cause and effect Once upon a time when Borland was in charge of development it only developed C Builder and Delphi two separate but highly compatible development tools They were two languagespecific IDEs I am not sure who came up with the idea of RAD Studio CodeGear or Embarcadero But RAD Studio is like Visual Studio today RAD Studio supports both C Builder and Delphi languages Buying RAD Studio is like buying both Delphi and C Builder Only buying the two separately costs 1193760 while buying only RAD Studio costs 671520 These prices of course do not include subscription costs
+
+Best regards

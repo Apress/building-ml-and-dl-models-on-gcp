@@ -1,0 +1,1 @@
+It looks like stopband analysis involves taking a closer look at the actual band you are rejecting or stopping in a bandreject filter I use the term bandreject filter because that is the term used when in school Is this correct

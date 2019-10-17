@@ -1,0 +1,9 @@
+Please do not block whole IP ranges next time 
+
+Dear Glen
+
+usually I do not log in to edit in the English Wikipedia I know about the advantages but I would like to let you know that there are many people out there who are doing good edits without logging in Today I experienced a blocking of my IP After changing it several times I understood that you were actually blocking an IPRange that was affecting nearly all German users of one provider that is serving more than 3 mio users Now that you know about this I hope you are less strict with blocking such a big IP range in future
+
+Thank you
+
+Mario

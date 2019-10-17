@@ -1,0 +1,1 @@
+WPMOSImages It is recommended that lead images not be smaller than 300px as this will make the image smaller for users who have set 300px in their user preferences Hesperian

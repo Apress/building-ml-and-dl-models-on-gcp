@@ -1,0 +1,10 @@
+Due to the nature of the block applied we need additional information before we can decide whether to unblock you It is very likely that you are not personally blocked If you are prevented from editing it may be because you are autoblocked or blocked because of your IP address Without further details there is nothing further we can do to review or lift your block Please follow these instructions
+
+   1 If you have a Wikipedia account please ensure that you are logged in
+      Your account name will be visible in the top right of this page if you are
+      If it isnt try bypassing your web browsers cache
+   2 Try to edit the Sandbox
+   3 If you are still blocked copy the  code generated for you under the IP blocked section This is usually hidden within the What do I do now section If so just click the show link to the right hand side to show this text
+   4 Paste the code at the bottom of your user talk page and click save
+
+If you are not blocked from editing the sandbox then the autoblock on your IP address has already expired and you can resume editing

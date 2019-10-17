@@ -1,0 +1,14 @@
+Motot constant
+Found this at httpenwikipediaorgwindexphptitleBrushless_DC_electric_motordiff483432978oldid483432770
+
+ KM rating 
+KM is the motor constant sometimes motor size constant defined as
+fractausqrtP
+
+where
+ scriptstyle tau is the motor torque SI units Nm
+ scriptstyle P is the resistive power loss SI units W
+
+The motor constant is winding independent as long as the same conductive material used for wires eg winding a motor with 6 turns with 2 parallel wires instead of 12 turns single wire will double the velocity constant Kv but KM remains unchanged  KM can be used for selecting the size of a motor to use in an application  Kv can be used for selecting the winding to use in the motor
+
+It look to me as if the scope is well beyond the original article and if put anywhere  it should be herer

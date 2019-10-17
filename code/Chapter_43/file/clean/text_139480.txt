@@ -1,0 +1,3 @@
+北京 
+
+I am going to reinstate the weatherbox because it appears on two pages both the city article and the geography article and a lot of code could be saved by doing so

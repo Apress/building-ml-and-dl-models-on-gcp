@@ -1,0 +1,2 @@
+AWB cleanup 
+I noticed this change do not clean up filenames The filename FileKasnÃs aerial photographjpg seems to be a result of utf8latin1 encoding confusion but it is still the filename

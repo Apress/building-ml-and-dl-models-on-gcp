@@ -1,0 +1,7 @@
+removal of a repeated inserted section that lacks sources etc
+Some editors put again and again the following passage in the section on the overview of the dispute
+ The Dalai Lama has banned the practice of Dorje Shugden and in so doing caused a rift in the Tibetan community as it is a widespread practice6 Tibetan and Western practitioners are currently organizing demonstrations against the Dalai Lamas ban wherever the Dalai Lama appears accusing him of denying them religious freedom7 The representative of the Dalai Lama appeared in Hamilton New York to say that from a legal standpoint there is no ban However he was contradicted by the practical examples and stories of Dorje Shugden practitioners which clearly indicate that while legally there may be no ban from the point of view of discrimination there is clearly a ban in effect and it arises from the Dalai Lamas words The representative said that he would look into all the evidences of human rights abuse within the Tibetan community in India and agreed that they were wrong8
+
+The reasons of my removals are
+this lacks any sources
+to put it at that place destroys the chronic order of that section

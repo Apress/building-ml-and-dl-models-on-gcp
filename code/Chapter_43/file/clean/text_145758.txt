@@ -1,0 +1,1 @@
+Cool but I put it back because its required to instantiate the Latest Stable ReleaseWinamp template  There are apparently several unnamed LSR pages now all sharing the same version number  HAR  It would be great if the template had a hidden name option

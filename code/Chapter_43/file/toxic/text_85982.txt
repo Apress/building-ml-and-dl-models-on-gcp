@@ -1,0 +1,3 @@
+This article sucks 
+
+for one thing it focuses exclusively on solid material  what about fluids and solids For another the most important concepts are buried under mountains of crap  the most simple basic and important concepts like ductile materials failing under shear and brittle failing under normal fluids supporting normal but flowing under shear  that should be in the intro Instead the article drones on and on with graduate level tensor math that should be spit into other articles

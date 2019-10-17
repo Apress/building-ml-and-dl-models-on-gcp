@@ -1,0 +1,4 @@
+style border 1px solid cccccc
+rowspan2 styleverticalalign middle padding 5px  
+
+Thank you for salting several spam subjects I brought to RFPP rybec

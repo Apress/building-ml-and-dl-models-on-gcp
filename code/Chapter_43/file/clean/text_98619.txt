@@ -1,0 +1,1 @@
+Body forces of which gravity is an important one are not included in the presented form of the Euler equations

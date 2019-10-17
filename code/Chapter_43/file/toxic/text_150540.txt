@@ -1,0 +1,41 @@
+Honestly the way wiki is treating this is a JOKE
+
+a I could have cited NEWS SITES but since when is a news site worthy of an academic cite
+
+b if the person that wanted PEER REVIEW felt like it he would have sought it 20 years ago HE CHOSE NOT TO DO IT but none the less his work is known and was mentioned in many math related forums and most ignored it 
+
+c Only the recent 2012 open source test of the work PROVED the 30Mod algorithm is a major thing in math again GITHUB is a programmers resource and it was not until a computer used the actual 30Mod algorithm that it was shown to be a big thing and since then some news sites have covered it but I chose not to cite them due to IMO they are not NPOV But none the less they covered the story
+
+d The FACT is a major computer site where programmers have free reign to challenge any claims exists and for over two years not one programmer challenged the findings
+
+e so what if the person that discovered it works outside of academia and has no regard for normal peer review the fact is he has no peers if you ask some in academia that know of his work and I am one of those people that know of the work and how brilliant the work is
+
+Now to summarize we have a bunch of pags about primes on wiki and even pages created after his discovery that USE his discovery ie the sieve of Atkin 60Mod work is his work discussed in the public forum and usenet math and physics forums is where he chose to discuss his amazing work
+
+So now you have 2004 sieve of Atkin using a 60Mod algorithm guess what that was in his 1995 paper So does wiki acknowledge that No And i didnt even bother to waste my time of the 60 mod algorithm since the big deal as you are saying is the PyPrimes test and I cited that very well its a program created in Python I cited the wiki python page then I cited Github for both PyPrimes and the PyPrimes testing
+
+Now while MATH is m forte I am sufficient enough in computer skills to understand what Github is and to understand how to read the speed tests and the prime spirals smoked every algorithm there is Now anyone can download python which I have done and download pyprimes which I have done and run the tests Guess what just like a math experiment it is duplicated
+
+So GITHUB and the tests which are not new should be enough to begin a wiki page on this truly amazing discovery in math
+
+I myself became aware of the first paper in 1995 as did others in aademia Recently I became aware of news sites running stories citing what I copied the links to the Github tests
+
+While some here can say well its not AMA so what in the world of primality testing primes spirals as per the PyPrimes results shows PRIME SPIRALS are a big deal
+
+Now I tried to be NPOV in giving all sides of the story Adoni has a valid 1995 claim I can verify it and I chose not to But I cited a Drexel Math forum and I could have cited many other math sites discussing his 30mod 60mod and 90mod prime work in the 1990s Is this signficant You bet it is since 60Mod prime sieve aka Atkin sieve is 20004 so his 60mod prime work is well before it
+
+Now the Github tests mentions croft spirals thats due to in 2010 a person named croft registering a web site and ripping off the 1995 work MY OPINION
+
+Now Croft can say all he wants that he found it playng his guitar or whatever he is claiming
+
+The fact is anyone can document Adoni with Prime theory from the 1990s saying 30mod 60mod and 90mod is the key
+
+9 Years later sieve of atkin appears well thats only a rehash of the adoni 60mod work from the 1990s Yet no one is giving him credit
+
+2010 croft puts out his 30Mod work and its inserted into PyPrimes on Github and it smokes every major prime algorithm there is and all of them have pages on wiki as I cited
+
+So 2012 a work on Github verifies how important to primality the 30mod spirals are but he says croft spirals well guess what HelixQ is now out there and taking 100 credit for the 1995 work of Dr Adoni
+
+My site to a Drexel math site from the 1990s mentioning 30Mod prime work prime spirals is a major cite since Adoni could care less about the AMA or whatever in all probability he will soon be nominated for a Nobel on his work that is how important it is 
+
+Think about it not one prime algorithm could beat the ancient sieve of Eratosthenes none of them On a computer creating primes all other algorithms are terribly slow The only two fast generators from scratch are the ancient sieve of Eratosthenes and the PRIME SPIRALS and the winner was Prime Spirals Now I can cite recent news articles about it laughing at academics it links to that said it was no big deal in the 1990s who now all look foolish due

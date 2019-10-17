@@ -1,0 +1,4 @@
+mac os x template 
+
+Someone came around the help desk at WikipediaHelp deskBroken OS template in WikiProject for User Categorisation asking about this user template you deleted Apparently the place it was advertized offers no usersubspace template replacement Did you create one Are we deleting userboxes again without moving them to userspace Your help is appreciated   talk  
+Nope there was a userfied replacement and my bot had removed all transclusions to the old template

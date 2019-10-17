@@ -1,0 +1,5 @@
+PC game requirements again 
+
+PC game requirements are all wrong No wonder since they were retrieved from mobygames which generates most of them automatically 
+
+For example NFSIII does NOT run in Windows 2000XP only in windows 9598 compatibility mode Also whats the point of recommending Direct X 90 when no such thing was invented by then ROLF Any DirectX 60 is enough to run the game in full detail as long it has about 16Megs of memory

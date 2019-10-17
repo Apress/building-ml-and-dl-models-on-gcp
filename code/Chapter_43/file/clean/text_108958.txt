@@ -1,0 +1,7 @@
+Basic concept of GPS 
+
+Hi
+
+There are two different issues with the introduction  The first is style  this is supposed to be a very easytoread introduction  The description as intersecting spheres is covered in much detail later in the article  Since the article is already very long perhaps another description is not needed in the introduction
+
+The second issue is the number of satellites needed  This is 3 with an accurate clock a ns or so will suffice  This gives the distance to 3 satellites which is enough to determine position  These will be 2 solutions but only one can be close to the surface of the Earth so this is not a practical problem  With 4 satellites you need only a crude clock provided your hardware measures the 4 satellites at almost the same time  This allows you to solve for xyz and t  See any GPS textbook for the details of how this is done

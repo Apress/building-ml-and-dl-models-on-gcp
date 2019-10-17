@@ -1,0 +1,9 @@
+This is A Potentially Ridiculous Article 
+
+Seriously it is a potentially ridiculous article and mislead readers to comprehend the word x86 for the following reasons
+
+1 Should sort AMD64 or Intel64 implementations as x86 Generally x86 was used to point all the processors compatible with IA32 ISA might or might name themselves with 86 such as Cyrix 5x86 Intel Pentium 4 and so on AMD64s long mode is devised by AMD rather than Intel so how can one sort them together Nowadays software labeled themselves as x86 are IA32 compatible software and use x64 or x8664 differentiating with it So this article confuses reader getting in touch with this word 
+
+2 Generations What is the 8th generation x86 processor Who invented this kinda processors AMD K8 just says that it succeeds AMD K7 rather than saying it is the 8th x86 processor and Ive never heard Intel call their x86 processors exceeding the 7th generation And one thing should never be denied the first generation of Itanium processor says its family model number as 7 which might potentially imply that Itanium might be the 7th x86 processor succeeding Pentium III but none confirmed this So take turn back the Transmetas Crusoe and Efficeon if the morph firmed on the system board implements x86 decoder call themselves as x86 processors then if put the same processor on another board implementing PowerPC decoder then it would be the PowerPC processor At this situation what kind of processor is it Ridiculous Whats more for what sort it as the 7th8th generation x86 Who is another Jane Austen making up another Northanger Abbey
+
+3 x86 is one architectureISA name What such a ridiculous thing that Ive ever heard on earth x86 is used to referring the processor a kind or series of processors rather than an architecture If it were the name of an architecture then in this logic way Intel 80486 is one of the implementation of this architecture

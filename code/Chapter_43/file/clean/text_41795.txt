@@ -1,0 +1,4 @@
+articleflow through cascades 
+
+I have written an article under the heading Flow Through Cascades
+And In that article I have assumed two dimensional flow instead of three dimensional flowBut i have mentioned the conditions under which it is possible and all the equations are written according to that conditions It is made to simplify the study In all the books that I have referred too have assumed the same assumptions and derived all the eqautions

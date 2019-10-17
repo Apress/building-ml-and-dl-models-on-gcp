@@ -1,0 +1,7 @@
+Link Suggester suggestion 
+
+Have you thought about a variation on the talk page vs list of pages method
+If you put the suggestions into a subpage of the appropriate talk page and transclude them in you can also transclude that subpage into a master page
+For example if you put the suggestions for Abraham Lincoln into talkAbraham Lincolnsuggested links you then add talkAbraham Lincolnsuggested links into talkAbraham Lincoln under Suggested links and into UserNickjLink SuggesterMaster list under Abraham Lincoln Then it can easily be seen how well the bot is doing and individual pagemaintainers are not overwhelmed
+What do you think
+  Talk 0919 Dec 2 2004 UTC

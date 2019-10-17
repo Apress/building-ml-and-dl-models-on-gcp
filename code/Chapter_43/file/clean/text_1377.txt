@@ -1,0 +1,1 @@
+The definition is extended so that it eats also functions A function from M to Rn would still be a function and NOT a tangent vector

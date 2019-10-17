@@ -1,0 +1,3 @@
+Finding whats new in missing geocoordinate categories 
+
+Ive been working my way through CategoryLondon articles missing geocoordinate data adding coordinates Is there a way of seeing which articles have been added when its been updated Thx in advance

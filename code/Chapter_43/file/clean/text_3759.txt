@@ -1,0 +1,23 @@
+Oz Inmate Infobox 
+
+All right Im going to go screw around with it and see how to work it and such but this is the information that I think should be on there
+
+Oz Prisoner Information
+Basics
+Name
+Number
+Age
+Charged with
+Sentence
+Elegible for Parole
+Family
+
+Within Oz
+Ethnicity
+Affiliated with
+Friends
+Enemies
+Died if applicable
+Reason of Death
+
+Played by

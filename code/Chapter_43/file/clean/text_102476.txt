@@ -1,0 +1,19 @@
+Menobot problem 
+
+Are you running Menobot on 37 6 and 16  If so it is not fixing the error and just marking it as done  There might be a WPCleaner bug on 3 that causes this Those werent done by Menobot but by another user running WPCleaner  Hmmmm   
+
+Problems in 16 they maybe related to code update recently    
+
+ Thank you both for your comments I am stopping the bot from doing this task and I am reporting this issue   
+Should be fixed for 16 with the update I made a few hours ago If there are problems with other errors tell me  Talk on frwiki 
+    Still doesnt explain why 6 and 37 were being marked as done but not fixed    
+ could you give me examples of articles that were marked as done but not fixed for 6 and 37  I took a look at a few 37 that have been marked as done and either they were really fixed by WPCleaner like Fröken Fräken or Günthers frog disambiguation were fixed by someone else like Adolfo Fernández or I dont understand why they were detected for 37 like 197172 New York Nets season or Emergency Afghan Allies Extension Act of 2014 HR 5195 113th Congress  Talk on frwiki 
+  For 37 Chris  Matt Kidd 2014 Västmanland wildfire Korea  AntiDumping Duties on Imports of Certain Paper from Indonesia and Blum  Poe
+For 6 Gå  fiska   
+
+For 37 did you change the way its handled by Check Wiki As far as I can remember 37 was only checking the first few characters of the title it was 3 for a long time and then was changed to 5 sometime ago For all the examples you provided the special character is after the fifth character so it shouldnt have been picked up by 37
+For 6 the DEFAULTSORT that has been added by WPCleaner is Ga  fiska which for me is ok Which character is considered a special one by CW    
+ Talk on frwiki 
+ For 37 Yes Now we check the entire string We should also warn     
+ For 6 I rename  to and and remove     
+ Could you give me the list of characters that CW considers as normal characters For WPCleaner Im currently using the following list ASCII letters digits space and a few punctuation

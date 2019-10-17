@@ -1,0 +1,10 @@
+RE Tables 
+
+Ah the joys of tables Ive always used DIVs and CSS for website layouts so wikicodes HTMLlike table code was all greek to me but thankfully its pretty simple to get the hang of _ HelpTable has basically everything you could need if you have any questions on the specifics let me know
+DIV tags work exactly as they do in HTML so to add inline CSS code you can just do Foobar
+Userboxes are really really easy to do either just add the template of the userbox you want to your page eg user AGF or to make your own just use the Userbox template eg substUserboxididcd0e5f5idfc000ids16infoThis user is  who is learning userboxesinfocf1f5fcinfofc000infos8bordercabd5f5borders1
+Personally I always use the Userbox template and remake my own userboxes because not all readymade userboxes are the same size and when some are larger than others I think it looks messy Also I like to have them all using my colour scheme _ But its really just down to personal preference
+user AGF will give you 
+And substUserboxididcd0e5f5idfc000ids16infoThis user is  who is learning userboxesinfocf1f5fcinfofc000infos8bordercabd5f5borders1 will give you 
+
+ Hope you got that and merry Christmas talk

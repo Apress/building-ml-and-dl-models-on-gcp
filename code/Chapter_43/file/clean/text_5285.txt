@@ -1,0 +1,8 @@
+Free Software  Open Source 
+
+In many articles you show your intention to use the phrase free and open source 
+The best way to deal with this is to choose the term used by the developers of the programs in question themselves If you are working on a page about a program where the developers explicitly use that term I have no objection If the developers use free software it is best to use exactly that for that specific program If the developers of a certain program use only open source and the license of the program is indeed an open source license Excluding the GNU GPL Its text explicitly uses the term free software then its ok to use that description 
+
+The purpose is that the reader should not understand the word free to mean gratis in this case Unfortunately just using free alone makes it more likely that people will understand gratis
+
+If you software into that phrase free and open source something like open source and free software it would be better

@@ -1,0 +1,3 @@
+classical composition stubs 
+
+Thanks for catching me  I was going through changing musicstubs to classicalcompstubs and I forgot the more specific stub was just for compositions and not for classical related articles in general  I reverted my misedits

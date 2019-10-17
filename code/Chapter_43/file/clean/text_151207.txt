@@ -1,0 +1,5 @@
+Charge Carriers
+The statement that electrons are the only charge carrier is ambiguous  Devices have been successfully demonstrated which exploit intersubband transitions in the valence band  Of course electron transport is taking place here but one may refer to the process as hole transport when the majority of electron states in a band are occupied  I think the important point here is that intersubband transitions rather than interband transitions are taking place   
+
+Device Fabrication
+Although MBE is commonly used I believe CVD is too  Does anyone know more about this

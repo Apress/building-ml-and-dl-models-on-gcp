@@ -1,0 +1,1 @@
+This article here httplwnnetArticles541336 mentions Canonicals Open Input Framework and also their multitouch input stack Since Mir relys on it for the INPUT as it relys on EGL for the OUPUT I would like to read more about it in this article and with enough material create distinct articles like there is one for evdev Anybody else interested

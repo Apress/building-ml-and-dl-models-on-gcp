@@ -1,0 +1,5 @@
+Edit Summary 
+
+When editing an article on Wikipedia there is a small field labeled Edit summary under the main editbox It looks like this The text written here will appear on the Recent changes page in the page revision history on the diff page and in the watchlists of users who are watching that article See mHelpEdit summary for full information on this feature
+
+Filling in the edit summary field greatly helps your fellow contributors in understanding what you changed so please always fill in the edit summary field especially for big edits or when you are making subtle but important changes like changing dates or numbers Thank you

@@ -1,0 +1,7 @@
+Thanks a lot Before I thought wiki stores only diffs between versions As we can think that the most simple compression method is saving the diff sections For example in order to save 
+1000 1003 1005 1021 1240 1241 we only needed to save 1000 3 2 16 1240 1 and
+this is indentical to the basic of image compression like jpeg or motion compression like mpeg
+In order to save motion pictures mpeg used I frame P frame P frame  I frame P frame 
+so I was suprised to hear that wiki saves all the verion in full text format Anyway thanks 
+It would be great to have a page something like wikipediawikipage storage format that explains
+in detail how the wikipedia saves its every pages of every version in detail and how the editing warrings edit battle effects on the storage usage and how a single character addition effects on the storage usage etc If you had some authority on wiki and knew the stroge mechanism of wiki how about to edit that page Just a thought Anyway thanks

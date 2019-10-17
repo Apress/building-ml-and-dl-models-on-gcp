@@ -1,0 +1,3 @@
+Moving articles 
+
+I see that you have moved a number of articles and created disambiguation pages in cases where there are two places with the same name  You may like to consider whether one of the two places should be the primary topic in which case a dab page is not needed see WPTWODABS  If you do go ahead and convert the original page to a dab page please remember to fix the links to that page per WPFIXDABLINKS  I have dealt with this at Upton Oxfordshire but there seem to be several others  Thanks

@@ -1,0 +1,2 @@
+Reverting
+Do not revert an article more than three times in 24 hours It is against wikipedia policies see WikipediaThreerevert_rule

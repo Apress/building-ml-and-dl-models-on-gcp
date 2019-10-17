@@ -1,0 +1,1 @@
+Well obviously there is nothing wrong with those examples you gave If they indeed violate WPWAF like you claim then that guideline is bullshit and should be ignored

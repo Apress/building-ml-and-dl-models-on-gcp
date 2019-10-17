@@ -1,0 +1,1 @@
+Hi Wayne Just to let you know the documentation for  says that the only parameters that work with that template are  and  Thus misleadingdate will just yield the same results as plain old  Its odd though since virtually all cleanup templates take a date parameter Hope this helps  Toronto

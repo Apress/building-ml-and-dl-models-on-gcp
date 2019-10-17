@@ -1,0 +1,37 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: nginx-server-service
+spec:
+  # service applies to application with name `nginx-server`
+  selector:
+    app: nginx-server
+  ports:
+    - protocol: "TCP"
+      # port inside cluster
+      port: 8080
+      # forward to port inside the pod
+      targetPort: 80
+      # accessible outside cluster
+      nodePort: 30001
+  # load balance between 5 instances of the container application
+  type: LoadBalancer
+
+---
+
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: nginx-server-deployment
+spec:
+  replicas: 5
+  template:
+    metadata:
+      labels:
+        app: nginx-server
+    spec:
+      containers:
+        - name: nginx-server
+          image: ekababisong/ebisong-nginx-server
+          ports:
+            - containerPort: 80

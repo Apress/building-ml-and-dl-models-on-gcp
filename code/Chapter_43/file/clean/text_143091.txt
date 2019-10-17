@@ -1,0 +1,3 @@
+Richard Machowicz 
+
+Can you please see this discussion I am trying to find out why is it invalid to reference the shows if a podcast is lacking when it would not be if there was a podcast Are there similar rules for referencing out of print books

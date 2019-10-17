@@ -1,0 +1,3 @@
+Overuse of shy template 
+
+I have reversed your 89 uses of the shy template at Jean Berko Gleason and thought I should explain whyUnfortunately the Wikipedia search treats all the partwords each side of the shy template as separate words so they appear as a vast number of misspellings  Although useful for very long words such as the example at TemplateShy it should be used sparingly  the third word of a line is highly unlikely to need splitting as a lineend word whilst breaking words across two lines makes them much harder to read It really doesnt matter if there is a short space at the end of a line although very long spaces can be confusing as to whether the sentence has come to a premature abrupt end or not

@@ -1,0 +1,7 @@
+Firmware 
+
+I think that when a feature in this page is mentioned it should be mentioned at what version of the firmware it was added if it was not originally available in the 100 or 150 releases
+
+This is not inconsequential information as the PSP has evolved over time when Sony released new features for whatever reason
+
+At the moment even the firmware section itself doesnt mention what changes were made to the firmware over time This is good information for us to have

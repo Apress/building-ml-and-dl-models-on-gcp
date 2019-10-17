@@ -1,0 +1,11 @@
+Start
+
+BClass1 no
+
+BClass2 yesno
+
+BClass3 yes
+
+BClass4 yes
+
+BClass5 yes

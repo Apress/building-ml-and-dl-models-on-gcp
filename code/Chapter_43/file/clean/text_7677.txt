@@ -1,0 +1,4 @@
+Wolfram
+A hypothetic body that completely absorbs all wavelengths of thermal radiation incident on it Such bodies do not reflect light and therefore appear black if their temperatures are low enough so as not to be selfluminous All blackbodies heated to a given temperature emit thermal radiation with the same spectrum as required by arguments of classical physics involving thermal equilibrium However the distribution of blackbody radiation as a function of wavelength known as the Planck law cannot be predicted using classical physics This fact was the first motivating force behind the development of quantum mechanics  Wolfram  Referenced to Eisberg R and Resnick R Thermal Radiation 12 in Quantum Physics of Atoms Molecules Solids Nuclei and Particles 2nd ed New York Wiley pp 26 1985
+
+I think this also supports the must emit part of the definition

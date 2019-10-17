@@ -1,0 +1,4 @@
+Thats good I expected the duplicates row to be overwritten but noticed it was needed to avoid errors in the interim piano 
+
+Another NRHP stats buglet
+While Im here  I have another apparent buglet  National Register of Historic Places listings in Hillsborough County New Hampshire is shown by the stats script to have 100 listings imaged  However there are actually 101 images only Hillsborough Mills and New England Glassworks lack images  I suspect the regexp is failing to match one the image filenames maybe FilelyndeboroughtownhallJPG piano

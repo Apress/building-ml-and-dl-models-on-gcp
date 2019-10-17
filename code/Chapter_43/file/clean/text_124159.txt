@@ -1,0 +1,13 @@
+dpkg Authorship
+
+ Summary 
+
+The discussion is about the authorship of dpkg dpkg as it stands is a C program with well over 100 contributors
+
+The anonymous user at 8617668157 claims that the transition from its Perl predecessor to a C program which was done by the subject of this article was merely porting from one language to another analogous to translating a novel Im not aware of any reference having been provided for this view
+
+The other view is that the C version was a substantially new program with a much greater feature set This view is supported by dpkgs own AUTHORS file which lists the subject of this article as its original author and describes it as based on the Perl version  not merely translated or ported from it
+
+  
+
+ Discussion

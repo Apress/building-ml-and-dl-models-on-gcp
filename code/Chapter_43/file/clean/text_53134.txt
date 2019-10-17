@@ -1,0 +1,3 @@
+Tartaglias formula 
+
+In TetrahedronVolume it is stated that Tartaglias formula is is essentially due to the painter Piero della Francesca in the 15th century If this is the case it should be also stated in the Niccolò Fontana Tartaglia article

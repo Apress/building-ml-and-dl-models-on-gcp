@@ -1,0 +1,7 @@
+antecedents etc 
+
+It is more a technical manual page than an encyclopaedia article
+
+Are there other approaches to the same problem and is croncrontab better
+
+I suppose it was Kernigan and Ritchie  who implemented it but were they using something commonplace at that time

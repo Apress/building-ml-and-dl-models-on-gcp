@@ -1,0 +1,40 @@
+In reference to the formula 11  2 you posted on my talk page as being proof of addition by subtraction Fine in theory as I have yet to see 1 of anything but I can prove that nothing is gained in your equation  
+Observe
+
+AB
+
+Multiply both sides by A and you get
+
+A2AB
+
+Add A2 to both sides to get
+
+A2A2A2AB
+
+Using addition we get
+
+2A2A2AB
+
+Subtract 2AB from both sides
+
+2A22ABA2AB2AB
+
+Thus
+
+2A22ABA2AB
+
+Combining terms on the LHS
+
+2A2AB A2AB
+
+Divide both sides by  A2AB
+
+2A2ABA2AB A2ABA2AB
+
+Cancel out like terms and Viola  We now see
+
+2  1
+
+So nothing is gained from addition by subtraction
+
+fin

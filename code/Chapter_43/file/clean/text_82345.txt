@@ -1,0 +1,9 @@
+Semiprotected edit request on 6 May 2014 
+
+ Artifical Intelligence based Solver 
+On 4th April 2014 an algorithm submission contest to solve 2048 game was started in Matlab Central Exchangehttpblogsmathworkscompick20140404submityouralgorithmstosolve2048
+On 2nd May 2014 the algorithms submitted by Oliver Woodford Athi Narayanan and Viktor were declared as the winning algorithms
+Both Olivers and Athis submissions were able to very successfully achieve 2048 and reach 4096 in a 1000run simulation experiment
+httpblogsmathworkscompick201405022048algorithms
+The Matlab implementation of the Artificial intelligence based 2048 Game solver submitted by Athi is available online
+httpwwwmathworksinmatlabcentralfileexchange464832048gamesolver

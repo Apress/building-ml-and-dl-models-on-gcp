@@ -1,0 +1,12 @@
+Mangled Units of Transmission Speed
+Can anyone explain what units CuteFTP uses for Speed  I see kbs and mbs in the CuteFTP 8 Queue Window for example but these are not valid units  kbs suggests kilobyte seconds or kilobit seconds  but both are nonsense units should be either kbps or kbs  Similarly mbs suggests millibyte seconds or millibit seconds which is doubly nonsense  both because it is a nonsense unit and also because even if they mean mbps or mbs it is a ridiculously small unit  I realize that they probably mean Mega rather than milli  but then they should use capital M
+
+Baud used to be used universally for data transmission rates and that is at least unambiguous
+
+This is all very sloppy and of course does not reflect well on GlobalScape
+
+See Data rate units also see
+ Bit rate
+ SI prefix
+ Binary prefix
+ List of device bandwidths

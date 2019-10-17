@@ -1,0 +1,1 @@
+Well it means but is incorrect that thumbnail data cannot be used in other parts of the system aside from those related to the actual image What it is should and is trying to say is that the thumbnail image data cannot be accessed arbitarily by any program because the files are fragmented around the file system

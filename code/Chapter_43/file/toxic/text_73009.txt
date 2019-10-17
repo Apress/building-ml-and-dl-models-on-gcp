@@ -1,0 +1,11 @@
+userbox 
+ TABTAB id   
+ TABTAB idc  White 
+ TABTAB info  This user is a faggot 
+ TABTAB infoc  LightBlue 
+ TABTAB borderc  Black 
+ TABTAB usercategory  LGBT Wikipedians 
+ TABTAB nocat   
+ TABTAB 
+ TABTAB
+ TABTAB This template automatically categorizes the user in LGBT

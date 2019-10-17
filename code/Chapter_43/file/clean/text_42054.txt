@@ -1,0 +1,3 @@
+Rename the article into Quantum Perturbation Theories 
+
+Im very sorry for some mistakes in the page Perturbation theory but I think the original purpose is rather correct I wish to specify that these ones are applications of analytical perturbation methods to QM while many other fields have seen perturbation methods like neutronics basing on linear Boltzmann equation viscoelasticity and so on That is also the reason I have just suggested in the discussion of Mathematical Perturbation Theory page to solve the ambiguity on one hand by inverting the redirect with perturbation methods and on the other hand to rename the Perturbation Theory QM page into Quantum perturbation Theories since there are more than one9523849157

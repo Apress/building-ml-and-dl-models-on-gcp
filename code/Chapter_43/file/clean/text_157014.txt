@@ -1,0 +1,2 @@
+Ships class
+Should it be just Trafalgar class submarine or Trafalgarclass submarine and tthus  should  there be a hyphen for all ships classes

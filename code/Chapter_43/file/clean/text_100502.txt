@@ -1,0 +1,3 @@
+CDRW Rewrite Cycles 
+It is stated in this article that the rewrite cycles of a CDRW is 1000 times This is the most absurd thing I have ever seen penned The rewrite cycle depends on the media and is typically under 100 times With 25 times being a more reasonable amount Understand that CDRW is a broken technology
+9821917811

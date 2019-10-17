@@ -1,0 +1,4 @@
+Fermat aware of Eulers result 
+
+Ive added reference Křížek Luca Somer 2001 p 38 Remark 415 to the claim that Fermat probably knew this result However the claim that it is widely believed might be too strong The mentioned remarks says the following
+Remark 415 As mentioned in the literature cf eg Lenstra Lenstra Manasse Pollard Fermat probably knew the previous theorem although its proof was given later by Euler in 1747 see Burton p219 However it is then unclear why Fermat did not apply this theorem to the factorization of F5 It was sufficient to divide F5 only by primes of the form 64k  1 and for k  10 Fermat could have convinced himself that his hypothesis on the primality of Fm did not hold Concerning the factor 214227  1  274177 of F6 see Figure 12 we note that there are 370 primes of the form k27  1 for k  2142

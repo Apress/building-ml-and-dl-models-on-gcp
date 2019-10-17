@@ -1,0 +1,3 @@
+Categorial vs categorical 
+
+Although the SOM gives these as synonyms Lambek clarifies that categorical refers to categories from category theory whereas categorial refers categories in the sense of the Polish school of Logic that is to type from type theory  ping

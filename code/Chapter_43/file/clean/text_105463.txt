@@ -1,0 +1,1 @@
+COnsider the equations on the HSL space cited above they use 6 spacial cases to convert from hue to rgb

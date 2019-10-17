@@ -1,0 +1,1 @@
+I believe its rolling out slowly  I had an option in my preferences for it but some people do not and instead have both the visual editor and a new button that says edit source  Additionally it can be disabled completely under the Gadgets tab in preferences Btw did you do a hard refresh talk

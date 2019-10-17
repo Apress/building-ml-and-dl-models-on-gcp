@@ -1,0 +1,3 @@
+Quote by Chen in intro 
+
+I did not see anything in the quote that would make me think Chen is referring to anything other than the well known fact that signal flow graphs can be solved by using Masons gain formula

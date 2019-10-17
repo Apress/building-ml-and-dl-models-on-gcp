@@ -1,0 +1,7 @@
+It looks as if this is a goer
+DeutschEnglishDenglishmir ist egal Not an issue just trying to be compatible just seems sensible to stick to the name prefix system and its only abbreviations most of which are the same
+The path There are two types of path UK footpaths for walkers and bridleways for walkers horses and other riders to a walker the change from footpath to bp is an important consideration to a horseman it is the difference between allowed and not allowed I suspect mountain bikers have a similar opinion do we need to show both how does this internationalise I was thinking dark green light green but couldnt decide which way round though if the distinction is not important it should default to dark as this looks clearer Im thinking of printouts too
+For gradient there seems to be several ways to proceed As I have said I was thinking of chevrons like the lock symbolA double for 13 and a single for 15 but this could be adapted meaning very steep and steep which would vary in context The German Bahn site has a section for Mountain lines where a spot height is given in a column to the right of the track This seems simple effective and could be used on footpaths 
+The colour of green needs to be stated in rrggbb before anything else is done reds and blues can be taken from canals and railways
+Glancing at the colorneutral link is it more difficult for the author writing the router or just the icon maker Can it be done in Inkscape
+I can do a few of the extra symbols fairly quickly if I am not distracted

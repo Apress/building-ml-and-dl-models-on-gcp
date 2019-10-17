@@ -1,0 +1,23 @@
+The Alberta and Quebec examples look limited Even the Feature Article Geography of India is not going to win any comprehensiveness awards Maybe Im too ambitious but I propose the following structure
+Biophysical Geography
+Terrain
+Mountains
+Water
+Climate
+Ecosystems
+Human Geogarphy
+Population
+Migration
+Urban
+Rural
+Economic Geography
+Resource Extraction
+Manufacturing
+Service
+Tourism and Recreation
+Political Geography
+Municipalities
+Regional Districts
+Federal and Provincial Politics
+
+Im not confident about Manufacturing and Service as separate sections because they seem too limited I also not confident about lumping Ecosystems into Physical Geography because Ecosystems will be by far the largest section and this can probably be linked with climate a lot better in a separate Bioclimatic Geography section

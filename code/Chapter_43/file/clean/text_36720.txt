@@ -1,0 +1,11 @@
+This is a question best raised on the NoScript support forums However I can comment on a few of the differences
+ CSP is serverside has to be configured at each server sends reports to the server while ABE is clientside configured in browser logs results in error console
+ CSP just allows or blocks content whereas ABE can take other actions like stripping authentication
+ CSP was primarily designed to stop crosssite scripting and other injections while ABE was primarily designed to stop crosssite request forgery but can defeat XSSinjections too
+ CSP allows wildcards ABE allows either wildcards or regular expressions
+ CSP specifies only hostnames ABE can specify full addresses including protocol and path
+ ABE knows about intranet vs internet addresses and can control traffic between them in fact it does this by default
+ CSP doesnt try to control requests originating from privileged code eg browser extensions ABE can although it is always possible for privileged code to defeat this so it cannot be relied on to protect against malicious addons
+ ABE can distinguish between different types of object inclusions and different HTTP methods
+ They can work independently if either blocks something it will be blocked
+ I dont know of any metrics on how widely CSP is deployed nor do I have any idea how many NoScript users take the time to configure ABE which doesnt do very much outofthebox

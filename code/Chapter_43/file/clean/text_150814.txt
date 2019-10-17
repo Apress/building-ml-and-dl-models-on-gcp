@@ -1,0 +1,15 @@
+This article is horrible because it confuses concepts 
+
+the USBIG definition 
+
+The Basic Income Guarantee is an unconditional governmentinsured guarantee that all citizens will have enough income to meet their basic needs
+
+and their page in general talks about a mix of Basic Income BI and Guaranteed Income GI  Although the article goes to great pains to explain the difference between BI and GI and claim that BIG is BI and not GI  The above definition of BIG is in fact GI and not BI
+
+unconditional aspect of BI doesnt mean there is no forms to fill out and no approval needed
+
+governmentinsured guarantee is pure GI because the implementation is to subsidize people up to an income level  A guaranteed income of 15000 means that if your income from other source is above 15000 you receive no benefit if your income is 14000 you receive 1000 and if your income is 0 you receive 15000
+
+Basic income of 10000 means that you receive 10000 no matter what your other income is
+
+I can volunteer to make the radical changes to this page to make BIG mean BI or I can alter the Basic Income page to no longer point to this page  I will do so in a few days assuming no one wants to insist on reverting the changes

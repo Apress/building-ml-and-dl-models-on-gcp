@@ -1,0 +1,45 @@
+Why wikipedias mod system does not work 
+
+httpwwwusatodaycomtechcolumnistkevinmaney20060912wisdomofcrowds_xhtm 
+
+Techies hot on concept of wisdom of crowds but it has some pitfalls 
+Posted 9122006 940 PM ET 
+
+Internet types love sweeping ideas that come in the form of book titles that morph into catchphrases that can be dropped like little bombs into conversations to show how smart they are 
+Well you know his company was vulnerable to The Innovators Dilemma especially because he didnt have a World Is Flat strategy although he couldve seen it coming if hed tapped into a Wisdom of Crowds approach 
+
+This is at its most grating when said with a Thurston Howell III accent  
+
+Anyway the concept of the wisdom of crowds  the title of a popular 2004 book by James Surowiecki  is particularly hot among tech companies right now Yet in the past week the concept has run into a couple of potholes One is a rhubarb at Internet darling Diggcom the other the UK governments case of the hijacked wiki 
+
+Both have people wondering if crowds are really all that wise and what conditions have to exist to make them wise Why is it that some crowds seem smart while others turn into ugly mobs 
+
+At its most basic level the wisdom of crowds  lets call it WOC so I dont have to type as much  means that the aggregated thought and knowledge of thousands or millions of people can be smarter than trained individual experts 
+
+The WOC has been around forever  its what democratic elections try to tap into But the Net takes it to a whole new level The Internet provides a mechanism to get lots of diverse opinions and aggregate it in a quick and costeffective way Surowiecki tells me 
+
+So if a company can use the Net to tap the collected intelligence of its employees the employees will make better decisions than the CEO IBM Google and others have tried this Wikipedia written and edited by tens of thousands of unpaid contributors should be better than an encyclopedia written and edited by specialists News sites such as Digg which lets users vote stories to the front page should surface the best stuff more effectively than professional editors 
+
+Except it doesnt always work that way Pointing specifically at Wikipedia Lauren Weinstein of the People for Internet Responsibility says that the Net has propagated a basic fallacy that a wisdomofcrowds approach could ever work even theoretically   
+
+Which might be extreme But clearly some of the WOC mechanisms in use today have shortcomings 
+
+Take Digg Founder Kevin Rose set it up with a simple premise If you like a news item or blog post you can digg it by voting for it Items with the most votes move to the front of the home page But cabals of users started working together to boost certain items Digg became less about the WOC and more about the ambitions of 1000 or so savvy members 
+
+So last week Rose changed the formula Digg will use computer programs to try to devalue bloc voting and give more value to what appears to be independent thinking Diggs regulars revolted causing a big Web stink But Surowiecki thinks the site will now be better 
+
+The thing that makes the wisdom of crowds work is lots of diverse opinions and independent judgments Surowiecki says Digg acknowledged it wanted more diversity of input 
+
+So WOC needs the right structure to work something the UKs Department of Environment Food and Rural Affairs DEFRA found out the hard way 
+
+DEFRA decided to let the public help it write environmental contracts so it posted one on the Net as a wiki The idea of a wiki  such as Wikipedia  is that anyone can log on and add or change something In the case of DEFRAs wiki the public mutilated it In one of the more printable alterations someone changed Who are the parties to the environmental contract to Where is the party for the environmental contract Can I come Will there be cake Hooray 
+
+These sorts of issues have permeated the Net Weinstein says Part of the problem is  it doesnt take a lot of people to cause such disruptions 
+
+Wikis as it turns out are not so much tapping the WOC as they are works in constant progress Depending on who last wrote something at any one time the wiki might be good or bad 
+
+Despite hiccups though theres still a lot of enthusiasm for WOC 
+
+Google in its own way is a WOC device It analyzes links that millions of people put on websites to come up with the most relevant search results The reputation system on eBay uses WOC to selfpolice its users 
+
+One of the more intriguing WOC site

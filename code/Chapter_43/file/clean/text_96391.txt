@@ -1,0 +1,7 @@
+Limited support under Android 19  22 native browsers 
+
+Im seeing some limitations in what SVG content will render properly under the default browser or alternative browsers running on Android 19 I believe this is also true for Android 22 The SVG wikipedia page doesnt provide any insight regarding Android support for SVG
+
+Can anyone confirm what support there is for SVG under the Android browsers and update the Wikipedia content accordingly
+
+Thanks Paul

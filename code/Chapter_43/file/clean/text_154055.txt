@@ -1,0 +1,38 @@
+styleborderspacing8pxmargin0px 8px width100
+classMainPageBG stylewidth 55 border1px solid 084080 backgroundcolorF5FFFA verticalaligntopcolor000000fontsize 85
+  
+Welcome
+Hello  Welcome to Wikipedia Thank you for your contributions If you decide that you need help ask me on my talk page check out WikipediaWhere to ask a question or place helpme on your talk page and someone will show up shortly to answer your questions Please remember to sign your name on talk pages using four tildes  this will automatically produce your name and the date Below are some recommended guidelines to facilitate your involvement And remember no question is stupid if you have anything absolutely anything that youd like to know feel free to drop on by and leave me a message D Happy Editing  
+ styleborderspacing8pxmargin0px 8px width100
+classMainPageBG stylewidth 55 border1px solid FFFFFF backgroundcolorF5FFFA verticalaligntop
+ Getting Started Wikipedia Tutorial
+ How to edit a page
+ The five pillars of Wikipedia
+ Manual of Style
+ Be bold in editing
+ How to write a great article
+ WikiProjects Getting your info out there Cite your sources
+ Neutral Point of View
+ Point of View
+ Verifiability
+ Uploading images
+ Image use policy Getting more Wikipedia rules Policy Library
+classMainPageBG stylewidth 55 border1px solid FFFFFF backgroundcolorF5FFFA verticalaligntop
+ width100 cellpadding2 cellspacing5 styleverticalaligntop backgroundcolorF5FFFA
+ Getting Help
+
+stylecolor000
+ My Talk Page
+ New contributors help page
+ Where to ask a question
+ Help Desk
+ Frequently Asked Questions
+
+ Getting along
+
+stylecolor000
+ Wikiquette
+ Civility
+ Sign your posts
+ Wikipedians
+ WikipediaCon

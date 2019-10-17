@@ -1,0 +1,2 @@
+Entailment   
+I have no idea why Philogo preferred to merge everything into entailment when the prevailing view in the literature is that inference entailment and implication are all forms of Logical consequence This is evident in the titles of journal articles chapters of books etcetera Let fix this consistent with the category structure talk

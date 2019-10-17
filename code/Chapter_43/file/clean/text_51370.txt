@@ -1,0 +1,51 @@
+His idea can be seen from the first three of six Chapters in his Contents In particular in Chapter II3 he defines his normal algorithm see subsection below in terms of a set of symbols that form words and a method using substitution rules to create new but valid words
+
+Although this sounds exactly like a recursive language Equivalence of a type 0 grammar to a Turing Machine cf Hopcroft and Ullman p 221 Introduction to Automata theory Languages and Computation AddisonWesley 1979 nowhere do Hopcroft and Ullman cite Markov neither in their index nor in their bibliography  
+
+Chapter I LETTERS ALPHABETS WORDS
+ 1 Letters
+ 2 Alphabets
+ 3 Words
+ 4 Entries
+ 5 Links and chains
+ 6 Translations
+
+Chapter II THE NOTION OF ALGORITHM
+ 1 Algorithms in alphabets
+ 2 Examples of algorithms
+ 3 Normal algorithms
+ 4 Examples of normal algorithms
+ 5 The principle of normalization
+
+Chapter III CONSTRUCTION OF NORMAL ALGORITHMS
+ 1 Extension of an algorithm
+ 2 Closure of an algorithm
+ 3 Composition of algorithms
+ 4 Combination of algorithms
+ 5 Branching of algorithms
+ 6 Reiteration of algorithms
+ 7 Translation of an algorithm
+ 8 Some algorithms connected with matrices
+
+ Nutshell description of Markovs definition of his normal algorithm pp63ff 
+
+In particular the notion 2 of steps of local nature appear also in Blass and Gurevich with regards to KolmogorovUspensky KU machines
+Gurevich proposed to Uspensky that  every computation performing only one restricted local action at a time can be viewed as not only  being simulated by but actually being the computation of an appropriate KU machine Uspensky concurred Blass Gurevich 2003 p 10
+
+Markovs definition  
+
+1 Separate elementary steps each of which will be performed according to one of these rules
+
+2 steps of local nature  as opposed to integral nature  he means that the algorithm wont change more than a certain number of symbols to the left or right of the observed wordsymbol 
+
+3 Rules for the substitution formulas 
+ 1 order given is their preferred order of use
+ 2 apply substitution to the first entry of the lefthand member
+
+4 Definite prescription for termination
+ 1 a means to distinguish a concluding substitution
+ 2 simple
+
+5 He defines the above as a normal algorithm
+
+6 the scheme of the algorithm is the list of the substitution rules

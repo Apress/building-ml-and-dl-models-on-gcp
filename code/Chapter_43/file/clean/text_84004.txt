@@ -1,0 +1,10 @@
+Brian Chens analysis of Apple and Flash 
+
+The article quotes Brian Chen
+Allowing Flash  which is a development platform of its own  would just be too dangerous for Apple a company that enjoys exerting total dominance over its hardware and the software that runs on it Flash has evolved from being a mere animation player into a multimedia platform capable of running applications of its own That means Flash would open a new door for application developers to get their software onto the iPhone Just code them in Flash and put them on a web page In so doing Flash would divert business from the App Store as well as enable publishers to distribute music videos and movies that could compete with the iTunes Store
+Because this quote is heavy in opinion analysis and POV  in other words unbalanced  I think its best to summarize the authors factual statements and use a short quote to capture the tone of the source Including the full quote compromises the articles neutral POV
+
+I replaced the text with this which was 
+In November 2010 a Wired columnist said allowing Flash  which is a development platform of its own  on the iPhone would just be too dangerous for Apple a company that enjoys exerting total dominance over its hardware and the software that runs on it and that it would allow developers to circumvent Apples App Store
+
+The edit summary says I removed the most important part What part is that

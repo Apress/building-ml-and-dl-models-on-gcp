@@ -1,0 +1,2 @@
+Multitouch 
+The iphone cannot be multitouch this is impossible for a capacitance type touch screen The zooming is done by detecting the capacitance change pattern of fingers moving apart It it would be useless for identifying two seperate discrete button presses

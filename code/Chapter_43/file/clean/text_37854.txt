@@ -1,0 +1,3 @@
+RSV template 
+
+Ive created a similar template  It doesnt link to BibleCrosswalk or BibleGateway though and its parameters are different from these

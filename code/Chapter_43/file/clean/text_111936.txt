@@ -1,0 +1,3 @@
+Book in the Debian article 
+
+I am participating in a GA review We need a good reason to keep the Debian GNULinux 31 Bible reference such as an inline citation Because I cannot provide the citation I hope there will be no trouble if I remove the reference in the meantime 8412780114

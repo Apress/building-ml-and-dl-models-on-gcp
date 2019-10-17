@@ -1,0 +1,25 @@
+The page number you need in the TLDR document is the page number I already stated above But ave yourself the trouble here is what it says
+
+SUPPLY
+May be single phase 230 V50 Hz
+or  in the majority of cases 
+3 phases 400  230 V50 Hz
+
+
+
+POWER CIRCUITS
+Single phase up to 3 WA 73 KVA
+3 phases
+
+Electrical appliances having
+a high power consumption
+cookers washing machines etc
+are supplied via a specific circuit
+and connected either to 16 A
+socketoutlet or cable outlet or to
+a specific socket Perilexi or CEE 17
+
+It is not uncommon to find 3 phases
+appliances
+
+ User talkSpinningsparkSpark

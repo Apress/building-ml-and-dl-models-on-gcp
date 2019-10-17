@@ -1,0 +1,5 @@
+05 N thrust 
+
+The first VASIMR engine model VX50 proved to be capable of 05 newtons 01 lbf thrust
+
+How would this thing ever move then The gravity of earth is 981N obviously much higher than this It wont even get off the ground

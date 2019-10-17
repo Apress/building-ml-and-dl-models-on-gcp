@@ -1,0 +1,9 @@
+I think we should rename this page exterior algebra currently a redirect instead of exterior power It seems to make more sense to define the space in which the product lives before defining the product See Charles comment above At any rate this would be more consistent with the symmetric algebra and symmetric power pages Normally I would just do this but as there has been some discussion regarding the name I thought I would ask first
+
+The pages currently redirecting here are
+exterior algebra
+exterior product
+wedge product
+Grassmann algebra
+
+  0038 2004 May 22 UTC

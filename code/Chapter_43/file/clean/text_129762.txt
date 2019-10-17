@@ -1,0 +1,5 @@
+Comments 
+ Per WikipediaLEADLength the introduction seems a bit too short  It should probably be expanded from one to two paragraphs  
+ Several references have unnecessary spaces between the punctuation and the opening square bracket
+ Multiple adjacent references should be put in order of ascending reference number
+ Why are teletype  tags wrapped around some refs but not others  I dont recall ever seeing this done  These should probably be removed to give the inline superscripted citations a more uniform look and feel

@@ -1,0 +1,1 @@
+Interesting Aside from WPALBUMSOURCES I would still omit the Allmusic rating since its unclear if it is accurate or not You may want to leave an inline comment in the wikitext linking to the forum post you found Good catch   talk

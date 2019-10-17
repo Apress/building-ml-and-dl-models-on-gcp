@@ -1,0 +1,26 @@
+Dear DCstats and ERosa 
+
+Starting a new section here because the preceding is hopelessly indented
+
+DCstats and ERosa you are mistaken in your thinking Jdannan and Avenue are quite correct I know this might be very difficult for you to accept You claim to have references supporting your interpretation However I think you are misinterpreting the statements from the textbooks you are reading I cant speak for your petroleum industry statistican friend My guess is that you conveyed your misinterpretation of the situation to himher I have a phd in mathematics and after reading this talk page and thinking I was almost losing my mind I consulted with several other phd mathematician and statistician friends of mine who confirmed that Jdannan and Avenue are indeed correct And the interpretation given in the article is basically correct as well In fact its the interpretation Ive seen given in every stats book Ive looked at
+
+Some references since these seem to be very important to people
+
+Warning There is much confusion about how to interpret a confidence interval A confidence interval is not a probability statement about θ since θ is a fixed quantity not a random variable  Larry Wasserman All of Statistics A Concise Course in Statistical Inference p 92
+CAUTION A 95 confidence interval does not mean that there is a 95 probability that the interval contains μ Remember probability describes the likelihood of undetermined events Therefore it does not make sense to talk about the probability that the interval contains μ since the population mean is a fixed value Think of it this way Suppose I flip a coin and obtain a head If I ask you to determine the probability that the flip resulted in a head it would not be 05 because the outcome has already been determined Instead the probability is 0 or 1 Confidence intervals work the same way Because μ is already determined we do not say that there is a 95 probability that the interval contains μ  Michael Sullivan III Statistics Informed Decisions Using Data p 453
+The idea of interval estimation is complicated an example is in order Suppose that for each λ x is a real random variable normally distributed about λ with unit variance then as is very easy to see with the aid of a table of the normal distribution if Mx is taken to be the interval x  19600 x  19600 then 1 Pλ in Mx  λ  α where α is constant and almost equal to 095 It is usually thought necessary to warn the novice that such an equation as 1 does not concern the probability that a random variable λ lies in a fixed set Mx Of course λ is given and therefore not random in the context at hand and given λ α is the probability that Mx which is a contraction of x has as its value an interval that contains λ  Leonard J Savage The Foundations of Statistics p 260
+
+Your misunderstanding seems to be based on an inadequate grasp of a few facts
+
+ The population mean μ is a fixed constant not a random variable
+ The endpoints of the confidence interval are random variables not fixed constants
+ A statement about the level of confidence of a confidence interval is a probabilistic statement about the endpoints of the interval considered as random variables
+
+The issue about whether μ is known or not is a complete red herring What matters is that μ is fixed not whether its known This also has absolutely nothing to do with probabilistic interpretations of quantum physics good lord
+
+Let me go through an example which has the most simplifying assumptions Suppose we have a normally distributed random variable X  on a population with mean μ  100 and standard deviation σ  16 and suppose we select samples of size n  100 Then the sample mean Xbar is a sampling distribution defined on the space of all possible samples of size 100 and it has mean μ  100 and standard deviation σsqrtn  16sqrt100  1610  16 A 95 confidence interval for μ based on this sampling is then given by Xbar  zα2σsqrtn Xbar  zα2σsqrtn  Xbar  19616 Xbar  19616  Xbar  3136 Xbar  3136
+
+Now note the following facts
+
+ The confidence interval is defined to be a random interval ie the endpoints of the confidence interval are random variables defined in terms of the sample mean Xbar
+ We know what the population mean μ is and yet we wer

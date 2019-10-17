@@ -1,0 +1,3 @@
+This is a shared Ip address 
+
+This ip address is owned by the University of South Alabama and is assigned to the dorm network

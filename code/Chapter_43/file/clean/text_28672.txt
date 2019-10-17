@@ -1,0 +1,8 @@
+8 December 2009 UTC
+
+Just to let you know I removed the tag from the Edward Mannock article The article does state he became a member of the Labour party but many tens of thousands of others have over the years No biggy of course and I can see why a bot might flag that I really dont know or care to know how these bots work but maybe if there is just one mention of a political party it should maybe flag it as a possible for human checking rather than adding the cat straight off  
+Thanks for pointing that one out The bot is tagging articles based on a set of categories related to UK Politics The Edward Mannock article is included in CategoryLabour Party politicians UK If he was a politician then he is in the scope of UK politics If he wasnt a politician then the category probably needs to be removed from the article
+He may be better off in CategoryLabour Party people UK which has been selected for manual checking as not all Labour party people are directly involved with politics Regards   
+
+Same goes for Leslie Scarman Baron Scarman  a judge and barrister not a politician    
+This is occuring because of CategoryLaw lords xenotalk 1838

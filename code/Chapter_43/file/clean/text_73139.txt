@@ -1,0 +1,5 @@
+Decimal  round numbers 
+
+The decimal section claiming why decimal wasis so common says among other reasons
+a human comfort level with rounded figures and the ease it can express and calculate very large numbers
+This makes no sense  ANY base will yield round numbers 10000 is round in any base it just means different values in different bases  And the ability to calculate very large numbers is a function of positional notation not the paricular base chosen for it  Ive removed those two points 16414425226

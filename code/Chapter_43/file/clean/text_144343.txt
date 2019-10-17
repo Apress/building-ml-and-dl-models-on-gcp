@@ -1,0 +1,12 @@
+TemplateInfobox WRC driversandbox 
+
+dHi Pelmeen I saw your message at WTRALLY regarding an updated version of the WRC driver infobox template Ive taken a look and I have some suggestions
+ Instead of calling it Infobox WRC driver we should call it Infobox Rally driver Although not often we are beginning to cover drivers from IRC ERC and other notable rally drivers who arent WRC drivers
+ There shouldnt be a reason for both of the name and fullname fields one should suffice This is a fault with the current template also
+ Instead of calling the next section of the infobox World Rally Championship record there should be an additional field that the editor can choose options of WRC IRC ERC etc etc so that we can use this infobox on other rally drivers
+ The codriver field should be made clear in the doc page that this shouldnt be used just for the current codriver especially if the drivers previous codrivers are notable and have Wikipedia articles
+ Same for teams
+ The races field which is generated in the Rallies line of the infobox  its unclear what this is for perhaps change it to racesnumber or even better add an additional field ralliesnumber tell users in the doc that races is depreciated and rallies is preferred because the output is Rallies
+ Im not sure that the points field is necessary What importance is is that Sebastien Loeb for example has won 1133 in his career We only care about the current season There is no championship for total points and because the length of each drivers career is different its not really comparable between different drivers
+ Im interested in seeing the medaltemplates field in use What is this for
+Hope these comments help Ill watch the sandbox with interest for additional updates    Chat

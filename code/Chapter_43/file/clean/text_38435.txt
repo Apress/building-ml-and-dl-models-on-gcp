@@ -1,0 +1,1 @@
+For the record I agree with Tom here  There are plenty of Public Domain BSD and LGPL AES implementations out there  To add commercial implementations just makes this articles more useful for one personthe commerical implementor in question listed hereand less useful for everyone else who would otherwise download a free AES implementation

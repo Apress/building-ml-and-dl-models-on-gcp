@@ -1,0 +1,3 @@
+Arrays 
+
+The article is missing an example of selfmodifying code to access a range of mailboxes eg 9099 because this instruction set appears to lack indexed addressing modes

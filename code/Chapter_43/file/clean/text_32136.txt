@@ -1,0 +1,5 @@
+Ref num converter 
+
+You are receiving this message because you are on the 
+
+I have just updated  to handle  links  I am not entirely sure of the correctness of the new code though so I have uploaded it as a testing version here  Please use it for now especially on pages that use ref num and contact me with any bug reports  If no bugs are detected by 20060424 0000 UTC then I will overwrite the old version of the ref converter with the new version and you can go back to using wikirefspl

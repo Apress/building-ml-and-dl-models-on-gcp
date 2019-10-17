@@ -1,0 +1,13 @@
+suggestions to improve readability 
+
+Hi guys the page seems very fragmented and is difficult to read at least thats what I read in the 24 reader comments i inserted public ledger in the first sentence because it was missing 
+
+before delving into the supertechnical aspect of how bitcoins are generated and frustrate readers i d start from the spot that everybody understands about money explain the intent of the system missing right now sthg like  it was created to exchange money electronically and securely without a third party that can dictate credit worthiness or  price of transactions as in banks or PayPal etc
+
+then move on to basics keep the bitcoin protocol details out of the article since you already split off the page about the protocol the shortest description Ive read is When a transaction is broadcast to the network it is relayed with a digital fingerprint that identifies it Bitcoin miners scoop it up verify it and send it on to the rest of the network for confirmation Once the transaction has been confirmed there is no way for that same person to spend those same bitcoins because they are being checked against the public ledger by Morgen Peck in IEEE spectrum Feb 13 14 
+
+a short and successful article explaining bitcoins is here 
+another FAQ from a Washington Post blog is here 
+and an article 3 days ago about the death of the Mt Gox Bitcoin Exchange by Morgen Peck was on Science Friday today is here
+
+Bitcoin was also discussed On Point last November in conjunction with the Senate committee hearing about it

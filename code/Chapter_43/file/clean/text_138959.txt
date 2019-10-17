@@ -1,0 +1,1 @@
+I did not produce the plot but it seems that for each parameter value of the map the orbit points are plotted  I would prefer the expression orbit diagram but bifurcation diagram is common usage  Many of the plotted points are close to unstable periodic orbits so in some sense there are unstable points in the diagram

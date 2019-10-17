@@ -1,0 +1,7 @@
+Controversial blocks
+
+Blocks that may be controversial are
+
+blocks of loggedin users with a substantial history of valid contributions regardless of the reasoning for the block 
+
+blocks made under the disruption provision of the blocking policy

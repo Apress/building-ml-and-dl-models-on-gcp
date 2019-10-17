@@ -1,0 +1,1 @@
+image being deleted after 48 hours instead of 7 days

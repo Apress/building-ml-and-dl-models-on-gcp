@@ -1,0 +1,3 @@
+rfa 
+
+This implies that rollback is special to Administrators only Its not explicit  is there any difference between 1click rollback and any other kind If any other kind exists    т  c

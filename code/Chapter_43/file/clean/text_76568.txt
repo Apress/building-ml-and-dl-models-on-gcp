@@ -1,0 +1,6 @@
+SP 500 Component
+industry          Consulting Information Technology
+foundation        
+founder           Rajat Sinha
+location          White FieldBangalore INDIA
+area_served       Worldwide

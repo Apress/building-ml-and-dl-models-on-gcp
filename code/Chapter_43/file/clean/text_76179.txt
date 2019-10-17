@@ -1,0 +1,4 @@
+2013 UTC
+ Hi Duxwing
+ Sorry for the very long response time  The sentence a Y such that Z exists for X is much harder to decipher than the other version and because of the nontraditional order of quantifiers in some cases it may have different meaning as a mathematical statement  It is also not noticably more concise  For example the sentence An element v  V for every v  V exists is impossible to parse because of the strange quantifier placement  I suggest that if you are not familiar enough with higher mathematics to understand the importance of precision in quantifier choice and order then you should tread very carefully when editing technical phrases  Some of the other edits you made were unobjectionable or improvements but they were all mixed in together and I didnt want to risk leaving an incorrect technical phrase
+ All the best  talk 0209 19 November

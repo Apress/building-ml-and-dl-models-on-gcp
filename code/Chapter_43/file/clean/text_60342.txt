@@ -1,0 +1,29 @@
+UserMiszaBotconfig 
+archiveheader  
+maxarchivesize  150K
+counter  22
+algo  old60d
+archive  TalkBig BangArchive counterd
+
+
+ IMPORTANT  This is not the place to discuss how you think the universe began This page is for discussing the article which is about the Big Bang model and about what has been presented in peerreviewed scientific literature about it See WikipediaNo original research and WikipediaTalk page guidelines  If you wish to discuss or debate the validity of the Big Bang please do so at BAUT forum or talkorigins
+
+ 
+
+ Fantastic work 
+
+One of my friends passed along a comment from a professors class notes about this article it is required reading for the class I thought it would be nice to share it here
+
+Great work    
+
+I agree this article is really good now206109195126  
+
+ Image from WMAP press release 2006 
+
+This image is quite puzzling and deserves a wider comment I believe that the grid is physically correct but the image of the CMBR on the left as a surface rather than as a circle and the representation of stars as points rather than geodesics are simply artist concepts and readers should be warned Any objection against pointing out the ambiguity of an image from a qualified source Do you believe they are really correct   
+
+Image copied here for easier reference I have mixed feelings On the one hand its one of those pictures thats pretty but doesnt do a great job of illustrating the actual science On the other hand it could do a lot worse Im still trying to figure out what the scale radius of the circular crosssections is supposed to represent Its not the FRW scale factor because then the inflationary epoch and the CMB would be invisible smaller than a pixel Then I thought it was the comoving radius of the observable universe but then it shouldnt flare outward on the right or have that point on the left the graph of the comoving radius can only be concave upward if the universe is shrinking Maybe its the scale factor with a significant amount of distortion to make the early eras visible but then the Inflation label is pointing to the wrong placeit should be pointing basically where Quantum Fluctuations is pointing Or it could be the log of the scale factor but that has the same problems as the comoving radius
+
+The illustration of the evolution of the galaxies is kind of cool and could perhaps be justified by saying that they took slices of the universe of nonzero thickness at intervals of say 100 million years and stacked those on top of each other That would explain the lack of continuous world lines Are people going to get that I dont know
+
+FileBig_bang_manifoldpngright

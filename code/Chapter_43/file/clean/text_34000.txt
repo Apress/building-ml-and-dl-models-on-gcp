@@ -1,0 +1,14 @@
+MBT3000 engine power and numbers 
+
+Ive edited the MBT3000s engine power
+
+Im not sure why but english sources have the engine power rated at 1300HP when the chinese reference have them at 1200HPhttpwwwguanchacnmilitaryaffairs2014_12_05_302564_sshtml As an export tank it would be more likely that the numbers are overstated than understated Hence I think the 1200HP is more reliable
+
+The source is an interview with a Norinco designer and he rattles off some numbers If anybody here would be an expert and determine their reliability I would be glad to include them
+
+Frontal composite armor 500mm RHAe
+Frontal with ERA 700mm RHAe
+
+APDS penetration 700mm 1000mm with advanced penetrator
+
+Infrared imaging system 2km range

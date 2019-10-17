@@ -1,0 +1,2 @@
+unsignSpeciate
+Yes a bot checks all articles at WPCHIBOTCATS twice a week to see if there are any new articles that do not have   The basic logic is that if the category is important enough to be included in the article then we as a project want to track the article  Let me know if having the tag causes any problems  If you do not feel the category is relevant to the article you can remove it and then if you remove the project tag it will not reappear  In this case note that two different categories are causing the tag to appear tcWPCHICAGOWPLOTD

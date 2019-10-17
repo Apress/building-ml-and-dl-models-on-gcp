@@ -1,0 +1,3 @@
+Terminology  
+
+I have changed maximum amplitude of elelctric field to peak value of electric field  I assume that this is what is intended since in this discussion the amplitude of E does not vary with time

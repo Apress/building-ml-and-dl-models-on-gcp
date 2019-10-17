@@ -1,0 +1,4 @@
+Accessibility 
+Theres a discussion at Template_talkTmboxAccessibility that might interest some editors of this page  In particular it would be nice to know whether the proposed talk page templates similar to whats at the top of this page are sufficiently readable for people with colorblindness or whether a differentlighter background color is important  Your comments are particularly wanted  If this issue in general interests you then you might want to get in touch with WPWikiProject Accessibility too
+
+Additionally an editor has very kindly offered to figure out how to create a customizable skin to change the background colors in the templates if this would in fact be helpful to anyone

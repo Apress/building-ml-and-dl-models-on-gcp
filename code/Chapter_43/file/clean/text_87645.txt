@@ -1,0 +1,3 @@
+Cost of Storage 
+
+I added a new section on Cost of storage  I hesitated to do this without discussing it first however I have often seen statements of encouragement for people to be somewhat fearless in making contributions  I feel that a section on cost is another way to add context to the understanding of the size of a terabyte  Since this measurement terabytes is most commonly used with reference to disk drives and since there is already a section on disk drive capacity it seemed reasonable that there should also be a context to show how the cost of that capacity has changed over time  Does that make sense  Now if I could just remember how much I used to pay for a box of punched cards

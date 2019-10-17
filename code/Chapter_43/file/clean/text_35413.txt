@@ -1,0 +1,2 @@
+Editing for style
+In A simplified example I found having the reference to Newtons Second Law at the beginning of the sentence interrupted the description of what was happening to movement of the charged particles so I moved it to the end of the sentence and added the equation F  ma

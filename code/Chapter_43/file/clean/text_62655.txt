@@ -1,0 +1,2 @@
+Doh thanks for pointing that out The extra section there was the lead A few minutes ago I updated the FFD and PUI clerking code to bring it closer to that for TFD and apparently the check that was being used for TFD was broken but was never being hit since TFD additionally requires  for a section to count
+ The bot will fix it automatically the next time it runs

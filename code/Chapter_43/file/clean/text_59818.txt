@@ -1,0 +1,4 @@
+Compression applications 
+
+This is apparently relevant to Block Truncation Coding The general idea seems to be that its a route to an image compression scheme with a formal upper error bound 
+Somebody from the compression world might be able to make some sense out of the article Right now its just an abstract definition

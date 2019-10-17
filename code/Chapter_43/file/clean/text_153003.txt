@@ -1,0 +1,3 @@
+Other HTML Greek letter variants such as ß 
+
+A variant of β that should also be considered is ß also known as sharp s or s z ligature at code point U00DF

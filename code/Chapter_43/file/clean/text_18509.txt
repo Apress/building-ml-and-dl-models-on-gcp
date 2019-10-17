@@ -1,0 +1,9 @@
+I found three other sources that use the term Two provide minor coverage though one is about a specific language Malbolge while one provides significant coverage of the topic
+
+  Just a brief oneline usage of the term to describe Malbolge Malbolge is known as one of the most esoteric programming languages In this paper we prove that Malbolge is weakly Turing complete
+
+  Just a brief oneline usage of the term in the references citing this article The following URL has some links to the different Esoteric Programming Languages httpenwikipediaorgwikiEsoteric_programming_language
+
+  Discusses the topic at length Largely verbatim excerpts from a 2005 conference paper coauthored by Mateas Favors the term weird language but says esoteric is more commonly used
+
+ I think Mateas and Cox are enough to establish notability of the subject As far as I can tell the term as its used here was invented by editor 1631103122 in this article in 2002 and expanded in scope later that day by editor 21325340113 the definition has been stable since then The term may have been taken out of context from an earlier website called Esoteric Topics in Computer Programming that site used Esoteric Programming Languages as a section name about a much broader set of languages seeming to use esoteric as an adjective like unusual rather than as part of a specific term None of this is from a reliable source its original research and not suitable for inclusion in the article but it may be useful for others trying to find information on the subject

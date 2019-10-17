@@ -1,0 +1,29 @@
+Absolute Proof that 0999 IS NOT EQUAL TO 1 
+A mathwiki
+
+You are wrong about infinite representation The ancient Greeks never represented 13 as 0333 
+
+Now let me refute your argument regarding the transitive property
+
+A    1313
+B    313  30333
+C    30333 0999 
+
+The problem here occurs in B where you assume that 3  0333  3  13 You have not proved anything On the contrary you have only proved that you are assuming 13  0333 which it is obviously not equal 0333 is an indeterminate number because it cannot be represented finitely in base 10 
+0333 is not equal to 13 so you cannot say that 13 is a finite representation An indeterminate number is a number that is repeating in any
+radix system
+
+You mention the division algorithm but do you know what it says The division algorithm has nothing to do with radix systems Let me state it for you  If a and b are two given integers there are unique integers q and r
+such that abq  r and  0 r  b Now I will use the division algorithm to prove that you are WRONG once and for all Suppose a  1 and b  0999 then 
+what are the integers q and r such that the above is true
+
+Suppose that q  0 and r  1 Then the division algorithm fails because it makes a false statement ie q and r can both be 0 and 1 respectively
+For example 1  099910 and 1  099901 So by default the
+division algorithm is proved false if 0999 is equal to 1 And you can say a lot of things about the Greeks but they would not make a stupid mistake like this They were the smartest race in ancient times
+
+Now suppose that you try to tell me that either form is acceptable in the case of 0 and 1 you will still end up with a terrible contradiction
+
+1099901 The second form in this case implies that 1  0999 since r  b But how can 1 be less than 0999 
+
+I want the world to know what fg idiots run this site You are a bunch of retarded conceited fools who I look upon with the utmost hatred and condemnation Your site is absolute crap because it is run by fools like Michael
+Hardy Kmrsq Melchoir Meni idiot Rosenfeld et al DIE WIKIPEDIA HAIL KNOLL 981952426

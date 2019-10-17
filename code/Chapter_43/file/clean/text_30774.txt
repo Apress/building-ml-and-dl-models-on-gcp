@@ -1,0 +1,1 @@
+Check out this trick someone told me about a month or so ago  httpcommonswikimediaorgwthumbphpfWilsonnflfootballjpgw120   Change the name in that URL to be the name of the image and the width to be the width you are trying to get it to display at and it forces MediaWiki to regenerate the image

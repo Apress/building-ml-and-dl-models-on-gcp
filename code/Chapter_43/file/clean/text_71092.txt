@@ -1,0 +1,10 @@
+This blocked user is asking that their block be reviewed
+   block log   ipblocklist  contribs  deleted contribs     unblock
+ Reason for unblocking
+I am extremely sorry for my childs behaviour i have severly told him off and said such behaviour is not acceptable I would be most grateful if u could unblock me I am a regular contributer to this site and always endeveur to maintain the respectability of the webiste once again i am truly sorry for my childs actions and he will be punished for this Thanks Jeff xxx
+Note Please check your block log linked above If there are no blocks listed or the latest one has already expired then you have been autoblocked Please remove this request and follow these instructions instead We cannot unblock you otherwise
+
+Administrator use only If you decline the unblock request replace this template with the following as notification
+unblock reviewed1I am extremely sorry for my childs behaviour i have severly told him off and said such behaviour is not acceptable I would be most grateful if u could unblock me I am a regular contributer to this site and always endeveur to maintain the respectability of the webiste once again i am truly sorry for my childs actions and he will be punished for this Thanks Jeff xxxdeclinereason  
+If you accept the request note that you MAY NOT unblock your own account replace the unblock template with  and post the following directly underneath the unblock template
+substRequest acceptedreason

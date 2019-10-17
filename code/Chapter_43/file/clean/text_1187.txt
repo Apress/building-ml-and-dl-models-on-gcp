@@ -1,0 +1,7 @@
+OK Ill try to sort through your latest post here Let me know if I misinterpret something
+First you specify a theory axiomatic system namely ZFCPPPomega exists Lets call that T0 for easy reference
+Now you argue that T0 proves the existence of a model lets call it M1  the 1 because its not a model of T0 but of a new theory such that
+M1 satisfies ZFCP
+Pomega is in M1 Now do you mean the real Pomega or do you mean that M1 satisfies Pomega exists  that is that theres an element of M1 that M1 thinks is Pomega  Im guessing the latter  that M1 satisfies Pomega exists
+You say aleph2 is in the model and is less than or equal to the cardinality of Pomega Again Im guessing you mean that this is in the models opinion that is M1 satisfies the statement  exists and 
+OK so going with my guesses thus far I agree that T0 proves the existence of such an M1 M1 might be for example M0G where M0 equals  which is a model for T0 and G is M0generic for the partial order to add  Cohen reals

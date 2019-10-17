@@ -1,0 +1,13 @@
+Comments from an EVDL member
+Im forwarding these comments from an EVDL member
+ In the httpenwikipediaorgwikiImageWPEVStartRunpng image the relay is called Ry RL but down in the text its referred to as Ry RS
+
+ Just a question  in the first part of the article it talks about how the car should operate like an ICE vehicle requiring the key to be turned to the Start position  But then later in the article it talks about breaking people of the habit of the pressing the accelerator pedal  Maybe Im one of those operators of older vehicles talked about but I still press the accelerator when I start my car whether its fuelinjected or not  So it seems like in the same description its trying to make the car start like an ICE vehicle and yet not make it start like an ICE vehicle
+
+ The rectangular area called In Cab confused me  At first I thought it was some special kind of component  Then I came to think that no its not a component at all it just represents somewhere inside the cab  I think this latter view is the correct one but Id like text andor picture to make it clearer  Im also not sure what the short blue wire between Run Buss and Run is for  My guess is that its for other systems that are activated only when the ignition state has been latched but the text doesnt make that clearand this also added to my confusion about the In Cab being a component
+
+ I dont know what this means  The run buss is grounded when not in the run state allowing additional interlocks to be included in order to ensure proper shutdown   Where would these additional interlock be placed  How would they ensure proper shutdown 
+
+ Finally I had to think about diode D1  When the key switch is in the Start position and both relays are enabled there will be 12V on each side of the diode  Therefore the diode wont conduct since one side isnt lower in voltage than the other  When the key switch is then returned to the On position the AlarmStart Relay will open removing the 12V on the negative side of the diode so the diode will start conducting thus keeping the Latch Relay energized  Is that correct  If so maybe an explanation could be added to that effect for dummies like me  If not then perhaps add a description of the way it really works
+
+Thanks for your good work here Thats for YOU not me  Hope this helps  Bill Dennis

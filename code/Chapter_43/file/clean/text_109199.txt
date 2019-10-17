@@ -1,0 +1,1 @@
+Note instead of making a live article immediately it is better to make a user space draft and then moving it to the live area when it is ready

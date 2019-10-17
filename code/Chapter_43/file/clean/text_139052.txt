@@ -1,0 +1,1 @@
+Southbridge  Proprietary Bus  Northbridge  CPU

@@ -1,0 +1,7 @@
+A barnstar for you 
+
+ stylebackgroundcolor fdffe7 border 1px solid fceb92
+rowspan2 styleverticalalign middle padding 5px  
+stylefontsize xlarge padding 3px 3px 0 3px height 15em  The Copyeditors Barnstar
+
+styleverticalalign middle padding 3px  Your logic analysis delivery and edits are flawless  Keep up the good work  Also try not to be discouraged in what seems to be at times the impossible task of educating the obstinate

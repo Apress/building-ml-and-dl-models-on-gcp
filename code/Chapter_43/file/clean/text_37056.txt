@@ -1,0 +1,8 @@
+You can use polar moment of inertia to calculate the rotational inertia of an object with constant crosssection
+
+ where I is the rotational inertia of the object
+  is the polar moment of inertia of the crosssection of the object
+  is the density of the material 
+ and l is the length of the object
+ Unlike the torsion application this is true for every crosssectional shape even noncircular shapes
+ 68012433

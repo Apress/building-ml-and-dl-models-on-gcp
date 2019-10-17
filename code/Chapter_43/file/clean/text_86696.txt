@@ -1,0 +1,3 @@
+symmetric and antisymmetric 
+
+If a relation is symmetric and antisymmetric it is coreflexive  Is married to is not     talk

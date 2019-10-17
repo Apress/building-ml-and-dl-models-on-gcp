@@ -1,0 +1,65 @@
+Hi  I thought Id drop a few notes on your talk page with some help on writing articles o
+
+First of all it may be best for you to do a bit of reading starting with the Wikipedia manual of style which will give you a lot of information about how Wikipedia prefers its articles to be written  Its not as hard to follow as it might look quite a bit of the information there probably wont be vital for you at first
+
+Second I recommend you make a user sandbox  which is just an area you can use to practise in and to make notes in and to get things ready in  If you click this red link userSandbox that will let you create that page it gives you an edit window to start work in  Anything anywhere on the help and information pages which gives you an example try it out in your sandbox until youre familiar with it
+
+For your article the next thing you want to do is start collecting as much information as you can about it  Google searches particularly in Books and Scholar will be your best friend for this  Once youve found the information the next most important thing is to start writing up each fact in your own words very important this and make a note at the same time of exactly where that information came from  Build in the references as you go along Im going to copy in down below this a whole heap of help on doing references which was produced by one of our best teachers 
+
+Heres another place that youll find incredibly useful  citation templates which you can copy and paste into your sandbox between  tags you just fill in the blanks from your sources into the template and youll end up with nicely formatted inline citations o  It all helps  Remember to add a references section to your sandbox make a new line and put References on it and type reflist on the next line so that you can see how your citations look as you do them  Remember to save your page often You dont want to lose your work
+
+Hopefully this will give you a good start and make life easier for you
+
+One last thing to keep as a motto Its better to write one good wellreferenced nicelypresented article than it is to create fifty unreferenced oneline stubs  talk stalk 
+How references work
+
+ Simple references 
+
+These require two parts
+
+a
+Chzz is 98 years old The book of Chzz Aardvark Books 2009 
+
+He likes tea  httpwwwnicecupofteaandasitdowncom Tea website 
+
+b A section called References with the special code reflist
+ References 
+reflist
+
+an existing article is likely to already have one of these sections
+
+To see the result of that please look at userchzzdemosimpleref Edit it and check the code perhaps make a test page of your own such as userreftest and try it out
+
+ Named references 
+
+Chzz was born in 1837 
+The book of Chzz Aardvark Books 2009 
+ 
+
+Chzz lives in Footown
+
+Note that the second usage has a  and no closing ref tag This needs a reference section as above please see userchzzdemonamedref to see the result
+
+ Citation templates 
+
+You can put anything you like between  and  but using citation templates makes for a neat consistent look
+
+Chzz has 37 Olympic medals  Citation
+  last  Smith
+  first  John
+  title  Olympic medal winners of the 20th century
+  publicationdate  2001
+  publisher  Cambridge University Press
+  page  125
+  isbn  0521371694
+
+
+
+Please see userchzzdemociteref to see the result
+
+For more help and tips on that subject see userchzzhelprefs
+Something to make your life easier
+
+Hi there   Ive just come across one of your articles and noticed that you had to create titles for your url links manually or were using bare urls as references
+
+You  might want to consider using this tool  it makes your life a whole heap easier by filling in co

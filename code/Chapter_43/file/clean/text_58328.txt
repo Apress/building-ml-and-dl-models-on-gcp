@@ -1,0 +1,3 @@
+request to reapply BG19bot 
+
+Ive been working for a while on text formatting in the whole Klingon grammar article in my Sandbox see TalkKlingon grammarTtKlingon Before installing my revision I checked the pages history since I made my sandbox working copy and found that your BG19bot had cleaned up the tables Naturally my replacement effectively undid that work Would you please have the bot redo the table fixing Thanks You can  me if you want to discuss it

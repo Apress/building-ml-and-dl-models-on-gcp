@@ -1,0 +1,9 @@
+Not all of the formats
+With Super Multi drives you cannot write
+DDCDR discs
+DDCDRW discs
+PD discs
+DVDRW DL discs
+DVDRW DL discs
+DVDR for Authoring discs
+They also do not support HDBURN or GigaRec

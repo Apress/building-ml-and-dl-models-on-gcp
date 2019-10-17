@@ -1,0 +1,1 @@
+I have now added another applicable image This allows the rightlooking image to be placed lower down where it does not diplace the toc and thus break up the flow Ihope this is a satisfactory solution

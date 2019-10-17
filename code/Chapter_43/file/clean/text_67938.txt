@@ -1,0 +1,6 @@
+Are Relais solid state 
+
+This article gives no clarification but I think it should Especially as the disambguation side explicitly declares that a solidstate device does not contain relays
+Which I suspect to be wrong There exist many devices that are called  solidstate an do in fact contain relais 
+
+Another Question arises about the definition moving parts There are devices that contain keys and switches and potentiometers all of them sporting moving or movable parts and the devices are regarded solidstate nevertheless 217237149206

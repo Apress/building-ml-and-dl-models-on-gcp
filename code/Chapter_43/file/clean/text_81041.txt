@@ -1,0 +1,6 @@
+Relativity  correction 
+
+The effect of gravitational frequency shift on the GPS system due to general relativity is that a clock closer to a massive object will be slower than a clock farther away Applied to the GPS system the receivers are much closer to Earth than the satellites causing the GPS clocks to be faster by a factor of 51010 or about 459 μsday This gravitational frequency shift is also a noticeable effect
+
+There is a mistake Yes it is true that the clock father away will be faster due to the weaker gravitional field However in case of orbiting satellites the effective gravitational field is completely canceled by the acceleration remember totaly weightless astronauts in the orbit According of the postulate of the general relativity theory an steady acceleration is equivalent to a homogenuos gravitational field  the satellite is in the effective zerofield
+Thus the factor 459 μsday must correspond to zerofield time dilatation not somewhatweakerfield time dilatation

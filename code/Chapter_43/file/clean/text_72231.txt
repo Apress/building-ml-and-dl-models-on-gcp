@@ -1,0 +1,1 @@
+Thanks Its sad that SDL has low abstraction possibilities I think Mathematica has fantastically flexible and expressive syntax And some intermediate tool could help develop complex math visualisation

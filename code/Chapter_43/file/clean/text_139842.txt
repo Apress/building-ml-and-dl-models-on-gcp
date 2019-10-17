@@ -1,0 +1,1 @@
+Ok then if Xcode means the whole development tool suite installed with the Xcode package which is debatable if you read Apple documentation Xcode also includes Interface Builder My first reply above wasnt that wrong

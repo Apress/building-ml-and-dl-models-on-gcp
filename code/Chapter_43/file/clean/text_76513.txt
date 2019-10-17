@@ -1,0 +1,3 @@
+Please justify your edits 
+
+When editing an article on Wikipedia there is a small field labelled Edit summary under the main editbox It looks like this The text written here will appear on the Recent changes page in the page revision history on the diff page and in the watchlists of users who are watching that article See mHelpEdit summary for full information on this featureWhen you leave the edit summary blank some of your edits could be mistaken for vandalism and may be reverted so please always briefly summarize your edits especially when you are making subtle but important changes like changing dates or numbers Thank you
